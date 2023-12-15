@@ -2,8 +2,8 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'ITALIAN TRUCK COMPANY 2023',
-  tagline: 'CON LA STRADA NEL CUORE',
+  title: '🚚 ITALIAN TRUCK COMPANY 2023 🚚',
+  tagline: 'TANTI AMICI INSIEME A TE',
   favicon: 'img/iconaitc.ico',
 
   // Set the production url of your site here
@@ -52,7 +52,7 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'Homepage',
+        title: ' 🚚 Homepage',
         items: [
           {
             type: 'docSidebar',
