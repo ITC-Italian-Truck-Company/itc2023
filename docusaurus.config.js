@@ -92,6 +92,32 @@ const config = {
               },
             ],
           },
+          {
+            title: 'Streamer Ufficiali',
+            items: [
+              {
+                label: 'spada_fighter',
+                href: 'https://www.twitch.tv/spada_fighter',
+              },
+              {
+                label: 'robby__25 (detto casellante)',
+                href: 'https://www.twitch.tv/robby__25',
+              },
+              {
+                label: 'scaniav8pinasco86',
+                href: 'https://www.twitch.tv/scaniav8pinasco86',
+              }
+            ],
+          },
+          {
+            title: 'Developer',
+            items: [
+              {
+                label: 'bitpredator',
+                href: 'https://github.com/bitpredator',
+              }
+            ],
+          },
         ],
         copyright: `Copyright © ${new Date().getFullYear()} Italian Truck Company`,
       },

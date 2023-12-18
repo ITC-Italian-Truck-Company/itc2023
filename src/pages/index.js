@@ -16,6 +16,7 @@ function HomepageHeader() {
           {siteConfig.title}
         </Heading>
         <p className="hero__subtitle">{siteConfig.tagline}</p>
+        <img src="img\itc_logo.jpg" width="250" height="250"></img>
         <div className={styles.buttons}>
           <p>
           Benvenuti nella Italian Truck Company 2023!
