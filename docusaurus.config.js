@@ -7,7 +7,7 @@ const config = {
   favicon: 'img/iconaitc.ico',
 
   // Set the production url of your site here
-  url: 'https://${Italian-Truck-Company}.github.io',
+  url: 'https://Italian-Truck-Company.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/ITC-WebSite/',
