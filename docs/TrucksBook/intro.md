@@ -2,5 +2,12 @@
 sidebar_position: 1
 ---
 
+# Cos'è TrucksBook ?
 
-- TrucksBook è un servizio online che permette di creare delle VTC Online (Virtual Truck Company) con le quali si crea una sorta di sfida a chi fa più Km! Ci sono due diverse statistiche, una diversa dall'altra: c'è la statistica “KM REALI” che impone di stare sotto i 100 Km/h, e poi c'è la statistica “KM GARA” che va al di sopra dei 100 Km/h. Noi cerchiamo di prediligere la statistica REALI perché e quella che (quasi) tutte le VTC si impegnano a conquistare!
+- TrucksBook è un sistema progettato principalmente per le aziende virtuali basato sui giochi Euro Truck Simulator 2 & American Truck Simulator.
+
+- Tutte le aziende competono tra loro nella distanza percorsa, quindi l'elemento base dell' applicazione è un registro in cui puoi trovare tutti i lavori che hai consegnato con molte informazioni dettagliate. 
+- Se hai un account premium, vedrai anche il tracciamento del percorso per l'intera consegna. 
+- Il tutto è gestito dal TrucksBook Client che si integra con il gioco e invia i dati al server dove vengono ulteriormente elaborati.
+
+- Inoltre, su TrucksBook puoi trovare molte altre funzionalità che vanno dalle statistiche di individui, aziende o paesi, a un manager aziendale che consente il pieno controllo sui dipendenti. Di seguito sono disponibili descrizioni dettagliate di tutte le pagine.

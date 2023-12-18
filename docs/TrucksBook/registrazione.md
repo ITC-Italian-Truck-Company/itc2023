@@ -2,4 +2,10 @@
 sidebar_position: 2
 ---
 
-- La procedura per registrarsi su TrucksBook è molto elementare: per prima corsa bisogna recarsi sul sito ufficiale a questo link: https://trucksbook.eu/. Bisogna, come per TruckersMP, creare un account con nome utente, email e password, anche qui, vi arriverà una mail per comfermare l'account. Poi bisognerà andare nel proprio profilo Steam ed impostare tutte le impostazioni sulla privacy su “Pubblico”, poi scaricare il client di TrucksBook che sarà il programma con il quale bisognerà aprire il gioco per registrare i Km in azienda, poi bisogna trovare il percorso di installazione del gioco, una volta fatto questo bisogna entrare con il proprio account creato in precedenza! Per entrare all' interno della nostra azienda dovrete premere questo link: https://trucksbook.eu/company/168755. Poi bisognerà schiacciare il pulsante blu in alto a destra con la scritta “MODULO DI DOMANDA”, bisogna scrivere un messaggio del motivo per il quale si vuole entrare in azienda poi premere il tasto INVIA! La richiesta verrà accettata dal proprietario o da uno degli amministatori.
+# Registrazione 
+
+- Per iniziare il processo di registrazione recati sul sito: https://trucksbook.eu
+- Premi sul pulsante "REGISTRAZIONE" che si trova in cima al sito e registrati tramite l'account Steam dove possiedi la versione originale di Euro Truck Simulator 2 o American Truck Simulator.
+- Il tuo account Steam deve essere pubblico, altrimenti la registrazione non può essere completata.
+- Dopo aver effettuato l'accesso da Steam, conferma la proprietà dei giochi mostrati e completa il modulo.
+- Dopodiché riceverai un'email che contiene il link di attivazione, attraverso il quale potrai attivare il tuo account Trucksbook e poi effettuare l'accesso.
