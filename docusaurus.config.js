@@ -106,6 +106,10 @@ const config = {
               {
                 label: 'scaniav8pinasco86',
                 href: 'https://www.twitch.tv/scaniav8pinasco86',
+              },
+              {
+                label: 'spumeggiante75',
+                href: 'https://www.twitch.tv/spumeggiante75',
               }
             ],
           },
