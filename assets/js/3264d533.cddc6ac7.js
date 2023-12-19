@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkitc_truck_company=self.webpackChunkitc_truck_company||[]).push([[876],{4546:t=>{t.exports=JSON.parse('{"permalink":"/ITC-WebSite/blog/tags/docusaurus","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
