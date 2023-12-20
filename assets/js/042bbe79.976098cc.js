@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkitc_truck_company=self.webpackChunkitc_truck_company||[]).push([[1929],{7977:e=>{e.exports=JSON.parse('{"label":"CONVOGLIO","permalink":"/ITC-WebSite/blog/tags/convoglio","allTagsPath":"/ITC-WebSite/blog/tags","count":1,"unlisted":false}')}}]);

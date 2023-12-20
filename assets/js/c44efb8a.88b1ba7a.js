@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkitc_truck_company=self.webpackChunkitc_truck_company||[]).push([[685],{5542:e=>{e.exports=JSON.parse('{"label":"facebook","permalink":"/ITC-WebSite/blog/tags/facebook","allTagsPath":"/ITC-WebSite/blog/tags","count":1,"unlisted":false}')}}]);
