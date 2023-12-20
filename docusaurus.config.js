@@ -52,15 +52,15 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: ' 🚚 Homepage',
+        title: ' 🚚 HOMEPAGE',
         items: [
           {
             type: 'docSidebar',
             sidebarId: 'tutorialSidebar',
             position: 'left',
-            label: 'Tutorial',
+            label: 'TUTORIAL',
           },
-//          {to: '/blog', label: 'Blog', position: 'left'},
+          {to: '/blog', label: 'ITC BLOG', position: 'left'},
         ],
       },
       footer: {
