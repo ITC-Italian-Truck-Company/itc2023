@@ -110,6 +110,10 @@ const config = {
               {
                 label: 'spumeggiante75',
                 href: 'https://www.twitch.tv/spumeggiante75',
+              },
+              {
+                label: 'italiantruckcompany2023',
+                href: 'https://www.twitch.tv/italiantruckcompany2023',
               }
             ],
           },
