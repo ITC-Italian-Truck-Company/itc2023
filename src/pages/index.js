@@ -35,7 +35,7 @@ export default function Home() {
   return (
     <Layout
       title={`Benvenuti in ${siteConfig.title}`}
-      description="Description will go into a meta tag in <head />">
+      description="[ITC] Italian Truck Company 2023 <head />">
       <HomepageHeader />
     </Layout>
   );
