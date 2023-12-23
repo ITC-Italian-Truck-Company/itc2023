@@ -66,15 +66,6 @@ const config = {
       footer: {
         style: 'dark',
         links: [
-//          {
-//            title: 'Docs',
-//            items: [
-//              {
-//                label: 'Tutorial',
-//                to: '/docs/intro',
-//              },
-//            ],
-//          },
           {
             title: 'Community',
             items: [
@@ -100,7 +91,7 @@ const config = {
                 href: 'https://www.twitch.tv/spada_fighter',
               },
               {
-                label: 'robby__25 (detto casellante)',
+                label: 'robby__25',
                 href: 'https://www.twitch.tv/robby__25',
               },
               {
