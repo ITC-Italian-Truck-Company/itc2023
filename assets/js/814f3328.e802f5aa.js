@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkitc_truck_company=self.webpackChunkitc_truck_company||[]).push([[2535],{5641:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"CONVOGLIO 21/12/2023","permalink":"/ITC-WebSite/blog/19-12-2023","unlisted":false}]}')}}]);
