@@ -35,7 +35,9 @@ export default function Home() {
   return (
     <Layout
       title={`Benvenuti in ${siteConfig.title}`}
-      description="[ITC] Italian Truck Company 2023 <head />">
+      description="[ITC] Italian Truck Company 2023 è una compagnia di trasporti virtuali,
+       formata da un gruppo di amici con la passione per Euro Truck Simulator 2 & American Truck Simulator.
+      <head />">
       <HomepageHeader />
     </Layout>
   );
