@@ -1,5 +1,4 @@
 import clsx from 'clsx';
-import Link from '@docusaurus/Link';
 import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import Layout from '@theme/Layout';
 import HomepageFeatures from '@site/src/components/HomepageFeatures';
@@ -17,7 +16,7 @@ function HomepageHeader() {
         </Heading>
         <p className="hero__subtitle">{siteConfig.tagline}</p>
         <img src="img\itc_logo.jpg" width="250" height="250"></img>
-        <div className={styles.buttons}>
+        <div>
           <p>
           Benvenuti nella Italian Truck Company 2023!
           Siamo un gruppo a cui piace ridere, scherzare e giocare insieme in maniera tranquilla ad ETS2 e ATS!
