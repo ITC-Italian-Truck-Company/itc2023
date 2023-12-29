@@ -4,7 +4,7 @@ sidebar_position: 1
 # BLOG ITC
 
 # CHI SIAMO ?
-La Italian Truck Company 2023 o meglio conosciuta come "ITC" è formata da un gruppo di amici appassionati del modo videoludico e simulativo, nello specifico, siamo grandi appassionati dei simulatori di guida (ETS2 & ATS) ma ciò non toglie che siamo aperti anche ad altri giochi e di genere diverso.
+La Italian Truck Company 2023 meglio conosciuta come "ITC 2023" è formata da un gruppo di amici appassionati del modo videoludico e simulativo, nello specifico, siamo grandi appassionati dei simulatori di guida (ETS2 & ATS) ma ciò non toglie che siamo aperti anche ad altri giochi e di genere diverso.
 
 # QUAL'E' IL NOSTRO SCOPO ?
 Il nostro scopo principale è quello di creare una community a cui piace ridere, scherzare e giocare insieme.
