@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkitc_truck_company=self.webpackChunkitc_truck_company||[]).push([[4516],{9496:t=>{t.exports=JSON.parse('{"label":"ITC","permalink":"/itc2023/blog/tags/itc","allTagsPath":"/itc2023/blog/tags","count":3,"unlisted":false}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkitc_truck_company=self.webpackChunkitc_truck_company||[]).push([[9088],{2227:t=>{t.exports=JSON.parse('{"label":"ETS2","permalink":"/itc2023/blog/tags/ets-2","allTagsPath":"/itc2023/blog/tags","count":3,"unlisted":false}')}}]);
