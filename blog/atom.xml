@@ -2,38 +2,69 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Italian-Truck-Company.github.io/itc2023/blog</id>
     <title>🚚 ITALIAN TRUCK COMPANY 2023 🚚 Blog</title>
-    <updated>2023-12-28T19:01:55.000Z</updated>
+    <updated>2024-01-01T01:35:53.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://Italian-Truck-Company.github.io/itc2023/blog"/>
     <subtitle>🚚 ITALIAN TRUCK COMPANY 2023 🚚 Blog</subtitle>
     <icon>https://Italian-Truck-Company.github.io/itc2023/img/iconaitc.ico</icon>
     <entry>
-        <title type="html"><![CDATA[FOTO GALLERY ITC]]></title>
-        <id>https://Italian-Truck-Company.github.io/itc2023/blog/GALLERIA ITC</id>
-        <link href="https://Italian-Truck-Company.github.io/itc2023/blog/GALLERIA ITC"/>
-        <updated>2023-12-28T19:01:55.000Z</updated>
-        <summary type="html"><![CDATA[- Foto del convoglio buon compleanno 🎂spada_fighter🎂]]></summary>
-        <content type="html"><![CDATA[<ul>
-<li>Foto del convoglio buon compleanno 🎂spada_fighter🎂
-<img loading="lazy" alt="IMG1" src="https://italian-truck-company.github.io/itc2023/assets/images/20231221230343_1-1bff2511e7dffb8d11cdbeaf852e616b.jpg" width="1920" height="1080" class="img_ev3q">
-<img loading="lazy" alt="IMG2" src="https://italian-truck-company.github.io/itc2023/assets/images/20231221230351_1-0ad4bc2b1421897099066bff5b8959bd.jpg" width="1920" height="1080" class="img_ev3q"></li>
-</ul>]]></content>
-        <category label="ITC" term="ITC"/>
-        <category label="ITA" term="ITA"/>
-        <category label="ETS2" term="ETS2"/>
-        <category label="ATS" term="ATS"/>
-        <category label="LIVE" term="LIVE"/>
-        <category label="CONVOGLIO" term="CONVOGLIO"/>
-        <category label="CONVOY" term="CONVOY"/>
-        <category label="FOTO" term="FOTO"/>
-        <category label="FOTOGRAFIA" term="FOTOGRAFIA"/>
-        <category label="CAMION" term="CAMION"/>
+        <title type="html"><![CDATA[BLOG ITC]]></title>
+        <id>https://Italian-Truck-Company.github.io/itc2023/blog/index</id>
+        <link href="https://Italian-Truck-Company.github.io/itc2023/blog/index"/>
+        <updated>2024-01-01T01:35:53.000Z</updated>
+        <summary type="html"><![CDATA[La Italian Truck Company 2023 meglio conosciuta come "ITC 2023" è formata da un gruppo di amici appassionati del modo videoludico e simulativo, nello specifico, siamo grandi appassionati dei simulatori di guida (ETS2 & ATS) ma ciò non toglie che siamo aperti anche ad altri giochi e di genere diverso.]]></summary>
+        <content type="html"><![CDATA[<h1>CHI SIAMO ?</h1>
+<p>La Italian Truck Company 2023 meglio conosciuta come "ITC 2023" è formata da un gruppo di amici appassionati del modo videoludico e simulativo, nello specifico, siamo grandi appassionati dei simulatori di guida (ETS2 &amp; ATS) ma ciò non toglie che siamo aperti anche ad altri giochi e di genere diverso.</p>
+<h1>QUAL'E' IL NOSTRO SCOPO ?</h1>
+<p>Il nostro scopo principale è quello di creare una community a cui piace ridere, scherzare e giocare insieme.</p>
+<h1>REGOLAMENTO</h1>
+<p>Il nostro gruppo ITC 2023 (ITALIAN TRUCK COMPANY 2023) è finalizzato al divertimento ed essendo
+soprattutto un gioco, non è e non deve diventare un lavoro.
+L’obbiettivo è quello di avanzare nella classifica "reale dei KM" (inferiore ai 100 km/h)
+Chiarito questo si pongono delle regole al fine di mantenere nel gruppo un clima sereno e divertente:</p>
+<ol>
+<li>
+<p>Alla base di tutto mettiamo il massimo rispetto fra le persone, quindi niente offese,
+tantomeno dirette, verso chiunque; recriminazioni o critiche devono essere sempre
+ponderate.</p>
+</li>
+<li>
+<p>L’uso del DISCORD non è strettamente obbligatorio; è però vivamente consigliato in quanto
+permette di conoscerci, stare insieme e magari divertirci. In ogni chat con molti giocatori
+presenti si dovrà prestare attenzione a non sovrapporre i discorsi l’uno con l’altro:
+attendere invece, come suggerisce la buona educazione, che l’interlocutore precedente
+abbia terminato di parlare.</p>
+</li>
+<li>
+<p>L’uso di termini scurrili (parolacce, imprecazioni varie) non è gradito;
+così pure parlare di altri sport (calcio, F1, moto GP, ecc.); le bestemmie sono tassativamente proibite.</p>
+</li>
+<li>
+<p>In caso di discussioni fra due o più giocatori riguardanti il gioco, sarà compito dei
+coordinatori cercare di appianare in modo semplice, ed in separata sede, la controversia:
+Nell’ipotesi che ciò non sia sufficiente, il coordinatore esporrà il problema agli
+amministratori che prenderanno gli opportuni provvedimenti del caso.</p>
+</li>
+<li>
+<p>Il reclutamento di nuovi giocatori è, ovviamente, bene accetto da tutti. Nonostante ciò, ci si
+renderà conto che è un compito particolarmente difficile (una persona sbagliata al posto
+sbagliato può rovinare irreparabilmente qualsiasi gruppo anche se bene affiatato): sarà
+opportuno quindi, parlarne con gli amministratori, specialmente se questo nuovo giocatore
+non è conosciuto, e decidere, magari dopo un periodo di prova, se va bene oppure no:
+considerare che un licenziamento non è piacevole per nessuno.</p>
+</li>
+<li>
+<p>In ogni cosa, ad ogni modo, si dovrà usare il buon senso costruttivo e non distruttivo,
+considerando che si ha a che fare con persone di cui conosciamo, nella maggior parte dei
+casi, solo la voce.</p>
+</li>
+</ol>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[CONVOGLIO 21/12/2023]]></title>
         <id>https://Italian-Truck-Company.github.io/itc2023/blog/19-12-2023</id>
         <link href="https://Italian-Truck-Company.github.io/itc2023/blog/19-12-2023"/>
-        <updated>2023-12-28T19:01:55.000Z</updated>
+        <updated>2024-01-01T01:35:53.000Z</updated>
         <summary type="html"><![CDATA[Per festeggiare il compleanno del nostro simpatico Amico "spada_fighter" il quale tutti i giorni con molta passione e dedizione ci tiene compagnia con le sue splendide live su twitch e per augurare a tutti voi delle buone feste, la ITC ha il piacere di porre il proprio invito al covoglio che si terrà in data 21/12/2023 sul server Promod di TruckerMP, l'orario di ritrovo è per le 21:15 presso Salonicco con tappa finale presso la città di Brasov.]]></summary>
         <content type="html"><![CDATA[<p>Per festeggiare il compleanno del nostro simpatico Amico "spada_fighter" il quale tutti i giorni con molta passione e dedizione ci tiene compagnia con le sue splendide live su twitch e per augurare a tutti voi delle buone feste, la ITC ha il piacere di porre il proprio invito al covoglio che si terrà in data 21/12/2023 sul server Promod di TruckerMP, l'orario di ritrovo è per le 21:15 presso Salonicco con tappa finale presso la città di Brasov.</p>
 <ul>
@@ -54,5 +85,27 @@
         <category label="LIVE" term="LIVE"/>
         <category label="CONVOGLIO" term="CONVOGLIO"/>
         <category label="CONVOY" term="CONVOY"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FOTO GALLERY ITC]]></title>
+        <id>https://Italian-Truck-Company.github.io/itc2023/blog/GALLERIA ITC</id>
+        <link href="https://Italian-Truck-Company.github.io/itc2023/blog/GALLERIA ITC"/>
+        <updated>2024-01-01T01:35:53.000Z</updated>
+        <summary type="html"><![CDATA[- Foto del convoglio buon compleanno 🎂spada_fighter🎂]]></summary>
+        <content type="html"><![CDATA[<ul>
+<li>Foto del convoglio buon compleanno 🎂spada_fighter🎂
+<img loading="lazy" alt="IMG1" src="https://italian-truck-company.github.io/itc2023/assets/images/20231221230343_1-1bff2511e7dffb8d11cdbeaf852e616b.jpg" width="1920" height="1080" class="img_ev3q">
+<img loading="lazy" alt="IMG2" src="https://italian-truck-company.github.io/itc2023/assets/images/20231221230351_1-0ad4bc2b1421897099066bff5b8959bd.jpg" width="1920" height="1080" class="img_ev3q"></li>
+</ul>]]></content>
+        <category label="ITC" term="ITC"/>
+        <category label="ITA" term="ITA"/>
+        <category label="ETS2" term="ETS2"/>
+        <category label="ATS" term="ATS"/>
+        <category label="LIVE" term="LIVE"/>
+        <category label="CONVOGLIO" term="CONVOGLIO"/>
+        <category label="CONVOY" term="CONVOY"/>
+        <category label="FOTO" term="FOTO"/>
+        <category label="FOTOGRAFIA" term="FOTOGRAFIA"/>
+        <category label="CAMION" term="CAMION"/>
     </entry>
 </feed>
