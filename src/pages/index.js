@@ -1,9 +1,6 @@
 import clsx from 'clsx';
 import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import Layout from '@theme/Layout';
-import HomepageFeatures from '@site/src/components/HomepageFeatures';
-
-import Heading from '@theme/Heading';
 import styles from './index.module.css';
 
 function HomepageHeader() {
@@ -11,17 +8,20 @@ function HomepageHeader() {
   return (
     <header className={clsx('hero hero--primary', styles.heroBanner)}>
       <div className="container">
-        <Heading as="h1" className="hero__title">
-          {siteConfig.title}
-        </Heading>
-        <p className="hero__subtitle">{siteConfig.tagline}</p>
-        <img src="img\itc_logo.jpg" width="250" height="250"></img>
+        <img1>
+          <img src="img\20231221230351_1.jpg"></img>
+        </img1>
+
         <div>
+          <font face="Verdana, Arial, Helvetica, sans-serif" color="red">
+            <font size="7">Chi Siamo ?</font>
+          </font>
           <p>
-          Benvenuti nella Italian Truck Company 2023!
-          Siamo un gruppo a cui piace ridere, scherzare e giocare insieme in maniera tranquilla ad ETS2 e ATS!
-          Se sei interessato ad entrare a far parte della nostra azienda puoi chiedere maggiori informazioni nel server Discord
-          tramite link disponibile nella sezione community!
+            La Italian Truck Company 2023 è un'azienda di autotrasporti virtuale ATS ed ETS2 come nessun'altra.
+            Siamo un gruppo impegnato a cambiare il modo dell'autotrasporto virtuale.
+            Assumiamo camionisti da tutta Italia che si impegnano a diventare membri preziosi della nostra azienda.
+            La nostra missione è sempre stata quella di costruire un luogo in cui il gruppo possa incontrarsi per formare una comunità amichevole.
+            I nostri autisti, amici vengono sempre al primo posto, facendo della responsabilità, del rispetto e della fiducia la base su cui abbiamo costruito la nostra fiorente comunità.
           </p>
         </div>
       </div>

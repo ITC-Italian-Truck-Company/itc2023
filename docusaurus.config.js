@@ -2,12 +2,11 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: '🚚 ITALIAN TRUCK COMPANY 2023 🚚',
-  tagline: 'TANTI AMICI INSIEME A TE',
+  title: 'ITALIAN TRUCK COMPANY 2023',
   favicon: 'img/iconaitc.ico',
 
   // Set the production url of your site here
-  url: 'https://Italian-Truck-Company.github.io',
+  url: 'https://italiantruckcompany.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/itc2023/',
@@ -67,23 +66,6 @@ const config = {
         style: 'dark',
         links: [
           {
-            title: 'Community',
-            items: [
-              {
-                label: 'TruckersMP VTC',
-                href: 'https://truckersmp.com/vtc/60781',
-              },
-              {
-                label: 'Discord',
-                href: 'https://discord.gg/yzPxXhdF6D',
-              },
-              {
-                label: 'TrucksBook',
-                href: 'https://trucksbook.eu/company/168755 ',
-              },
-            ],
-          },
-          {
             title: 'Streamer Ufficiali',
             items: [
               {
@@ -106,6 +88,23 @@ const config = {
                 label: 'italiantruckcompany2023',
                 href: 'https://www.twitch.tv/italiantruckcompany2023',
               }
+            ],
+          },
+          {
+            title: 'Community',
+            items: [
+              {
+                label: 'TruckersMP VTC',
+                href: 'https://truckersmp.com/vtc/60781',
+              },
+              {
+                label: 'Discord',
+                href: 'https://discord.gg/yzPxXhdF6D',
+              },
+              {
+                label: 'TrucksBook',
+                href: 'https://trucksbook.eu/company/168755 ',
+              },
             ],
           },
           {
