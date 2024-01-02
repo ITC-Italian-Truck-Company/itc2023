@@ -9,3 +9,8 @@
   height: 200px;
   width: 200px;
 }
+
+.img1 {
+  width: 100%;
+  height: auto;
+}
