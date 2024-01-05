@@ -8,6 +8,7 @@ function HomepageHeader() {
   return (
     <header className={clsx('hero hero--primary', styles.heroBanner)}>
       <div className="container">
+        <head><meta name="google-site-verification" content="Kg9ShFJONmQ9gcsz43sOGRWnUkQWwMqd4aVhSLEA1DE" /></head>
         <img1>
           <img src="img\20231221230351_1.jpg"></img>
         </img1>
