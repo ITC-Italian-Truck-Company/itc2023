@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://italiantruckcompany.github.io/itc2023/blog</id>
     <title>ITALIAN TRUCK COMPANY 2023 Blog</title>
-    <updated>2024-01-09T19:33:35.000Z</updated>
+    <updated>2024-01-09T19:36:01.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://italiantruckcompany.github.io/itc2023/blog"/>
     <subtitle>ITALIAN TRUCK COMPANY 2023 Blog</subtitle>
@@ -11,7 +11,7 @@
         <title type="html"><![CDATA[BLOG ITC]]></title>
         <id>https://italiantruckcompany.github.io/itc2023/blog/index</id>
         <link href="https://italiantruckcompany.github.io/itc2023/blog/index"/>
-        <updated>2024-01-09T19:33:35.000Z</updated>
+        <updated>2024-01-09T19:36:01.000Z</updated>
         <summary type="html"><![CDATA[La Italian Truck Company 2023 meglio conosciuta come "ITC 2023" è formata da un gruppo di amici appassionati del modo videoludico e simulativo, nello specifico, siamo grandi appassionati dei simulatori di guida (ETS2 & ATS) ma ciò non toglie che siamo aperti anche ad altri giochi e di genere diverso.]]></summary>
         <content type="html"><![CDATA[<h1>CHI SIAMO ?</h1>
 <p>La Italian Truck Company 2023 meglio conosciuta come "ITC 2023" è formata da un gruppo di amici appassionati del modo videoludico e simulativo, nello specifico, siamo grandi appassionati dei simulatori di guida (ETS2 &amp; ATS) ma ciò non toglie che siamo aperti anche ad altri giochi e di genere diverso.</p>
@@ -61,10 +61,58 @@ casi, solo la voce.</p>
 </ol>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[CONVOGLIO 21/12/2023]]></title>
+        <id>https://italiantruckcompany.github.io/itc2023/blog/19-12-2023</id>
+        <link href="https://italiantruckcompany.github.io/itc2023/blog/19-12-2023"/>
+        <updated>2024-01-09T19:36:01.000Z</updated>
+        <summary type="html"><![CDATA[Per festeggiare il compleanno del nostro simpatico Amico "spada_fighter" il quale tutti i giorni con molta passione e dedizione ci tiene compagnia con le sue splendide live su twitch e per augurare a tutti voi delle buone feste, la ITC ha il piacere di porre il proprio invito al covoglio che si terrà in data 21/12/2023 sul server Promod di TruckerMP, l'orario di ritrovo è per le 21:15 presso Salonicco con tappa finale presso la città di Brasov.]]></summary>
+        <content type="html"><![CDATA[<p>Per festeggiare il compleanno del nostro simpatico Amico "spada_fighter" il quale tutti i giorni con molta passione e dedizione ci tiene compagnia con le sue splendide live su twitch e per augurare a tutti voi delle buone feste, la ITC ha il piacere di porre il proprio invito al covoglio che si terrà in data 21/12/2023 sul server Promod di TruckerMP, l'orario di ritrovo è per le 21:15 presso Salonicco con tappa finale presso la città di Brasov.</p>
+<ul>
+<li>
+<p>Per maggiori informazioni visita la sezione convogli di TrucksBook: <a href="https://trucksbook.eu/convoy/20555" target="_blank" rel="noopener noreferrer">https://trucksbook.eu/convoy/20555</a></p>
+</li>
+<li>
+<p>La live sarà trasmessa in diretta streaming nel canale twitch di spada_fighter: <a href="https://www.twitch.tv/spada_fighter" target="_blank" rel="noopener noreferrer">https://www.twitch.tv/spada_fighter</a></p>
+</li>
+</ul>
+<p><img loading="lazy" alt="Convoglio" src="https://italiantruckcompany.github.io/itc2023/assets/images/convoglio-45d3792219ab64da831eef4e3dfe7831.jpeg" width="877" height="493" class="img_ev3q"></p>]]></content>
+        <category label="ITC" term="ITC"/>
+        <category label="ITA" term="ITA"/>
+        <category label="ETS2" term="ETS2"/>
+        <category label="ATS" term="ATS"/>
+        <category label="STREAMER" term="STREAMER"/>
+        <category label="TWITCH" term="TWITCH"/>
+        <category label="LIVE" term="LIVE"/>
+        <category label="CONVOGLIO" term="CONVOGLIO"/>
+        <category label="CONVOY" term="CONVOY"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FOTO GALLERY ITC]]></title>
+        <id>https://italiantruckcompany.github.io/itc2023/blog/GALLERIA ITC</id>
+        <link href="https://italiantruckcompany.github.io/itc2023/blog/GALLERIA ITC"/>
+        <updated>2024-01-09T19:36:01.000Z</updated>
+        <summary type="html"><![CDATA[- Foto del convoglio buon compleanno 🎂spada_fighter🎂]]></summary>
+        <content type="html"><![CDATA[<ul>
+<li>Foto del convoglio buon compleanno 🎂spada_fighter🎂
+<img loading="lazy" alt="IMG1" src="https://italiantruckcompany.github.io/itc2023/assets/images/20231221230343_1-1bff2511e7dffb8d11cdbeaf852e616b.jpg" width="1920" height="1080" class="img_ev3q">
+<img loading="lazy" alt="IMG2" src="https://italiantruckcompany.github.io/itc2023/assets/images/20231221230351_1-0ad4bc2b1421897099066bff5b8959bd.jpg" width="1920" height="1080" class="img_ev3q"></li>
+</ul>]]></content>
+        <category label="ITC" term="ITC"/>
+        <category label="ITA" term="ITA"/>
+        <category label="ETS2" term="ETS2"/>
+        <category label="ATS" term="ATS"/>
+        <category label="LIVE" term="LIVE"/>
+        <category label="CONVOGLIO" term="CONVOGLIO"/>
+        <category label="CONVOY" term="CONVOY"/>
+        <category label="FOTO" term="FOTO"/>
+        <category label="FOTOGRAFIA" term="FOTOGRAFIA"/>
+        <category label="CAMION" term="CAMION"/>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[THE MILESTONE OF ONE HUNDRED]]></title>
         <id>https://italiantruckcompany.github.io/itc2023/blog/01-01-2024</id>
         <link href="https://italiantruckcompany.github.io/itc2023/blog/01-01-2024"/>
-        <updated>2024-01-09T19:33:35.000Z</updated>
+        <updated>2024-01-09T19:36:01.000Z</updated>
         <summary type="html"><![CDATA[La ITC per festeggiare il traguardo delle 100 live di spada_fighter, ha il piacere di porre il proprio invito al covoglio che si terrà in data 01/01/2024.]]></summary>
         <content type="html"><![CDATA[<p>La ITC per festeggiare il traguardo delle 100 live di spada_fighter, ha il piacere di porre il proprio invito al covoglio che si terrà in data 01/01/2024.</p>
 <ul>
@@ -112,53 +160,5 @@ casi, solo la voce.</p>
         <category label="LIVE" term="LIVE"/>
         <category label="CONVOGLIO" term="CONVOGLIO"/>
         <category label="CONVOY" term="CONVOY"/>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CONVOGLIO 21/12/2023]]></title>
-        <id>https://italiantruckcompany.github.io/itc2023/blog/19-12-2023</id>
-        <link href="https://italiantruckcompany.github.io/itc2023/blog/19-12-2023"/>
-        <updated>2024-01-09T19:33:35.000Z</updated>
-        <summary type="html"><![CDATA[Per festeggiare il compleanno del nostro simpatico Amico "spada_fighter" il quale tutti i giorni con molta passione e dedizione ci tiene compagnia con le sue splendide live su twitch e per augurare a tutti voi delle buone feste, la ITC ha il piacere di porre il proprio invito al covoglio che si terrà in data 21/12/2023 sul server Promod di TruckerMP, l'orario di ritrovo è per le 21:15 presso Salonicco con tappa finale presso la città di Brasov.]]></summary>
-        <content type="html"><![CDATA[<p>Per festeggiare il compleanno del nostro simpatico Amico "spada_fighter" il quale tutti i giorni con molta passione e dedizione ci tiene compagnia con le sue splendide live su twitch e per augurare a tutti voi delle buone feste, la ITC ha il piacere di porre il proprio invito al covoglio che si terrà in data 21/12/2023 sul server Promod di TruckerMP, l'orario di ritrovo è per le 21:15 presso Salonicco con tappa finale presso la città di Brasov.</p>
-<ul>
-<li>
-<p>Per maggiori informazioni visita la sezione convogli di TrucksBook: <a href="https://trucksbook.eu/convoy/20555" target="_blank" rel="noopener noreferrer">https://trucksbook.eu/convoy/20555</a></p>
-</li>
-<li>
-<p>La live sarà trasmessa in diretta streaming nel canale twitch di spada_fighter: <a href="https://www.twitch.tv/spada_fighter" target="_blank" rel="noopener noreferrer">https://www.twitch.tv/spada_fighter</a></p>
-</li>
-</ul>
-<p><img loading="lazy" alt="Convoglio" src="https://italiantruckcompany.github.io/itc2023/assets/images/convoglio-45d3792219ab64da831eef4e3dfe7831.jpeg" width="877" height="493" class="img_ev3q"></p>]]></content>
-        <category label="ITC" term="ITC"/>
-        <category label="ITA" term="ITA"/>
-        <category label="ETS2" term="ETS2"/>
-        <category label="ATS" term="ATS"/>
-        <category label="STREAMER" term="STREAMER"/>
-        <category label="TWITCH" term="TWITCH"/>
-        <category label="LIVE" term="LIVE"/>
-        <category label="CONVOGLIO" term="CONVOGLIO"/>
-        <category label="CONVOY" term="CONVOY"/>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FOTO GALLERY ITC]]></title>
-        <id>https://italiantruckcompany.github.io/itc2023/blog/GALLERIA ITC</id>
-        <link href="https://italiantruckcompany.github.io/itc2023/blog/GALLERIA ITC"/>
-        <updated>2024-01-09T19:33:35.000Z</updated>
-        <summary type="html"><![CDATA[- Foto del convoglio buon compleanno 🎂spada_fighter🎂]]></summary>
-        <content type="html"><![CDATA[<ul>
-<li>Foto del convoglio buon compleanno 🎂spada_fighter🎂
-<img loading="lazy" alt="IMG1" src="https://italiantruckcompany.github.io/itc2023/assets/images/20231221230343_1-1bff2511e7dffb8d11cdbeaf852e616b.jpg" width="1920" height="1080" class="img_ev3q">
-<img loading="lazy" alt="IMG2" src="https://italiantruckcompany.github.io/itc2023/assets/images/20231221230351_1-0ad4bc2b1421897099066bff5b8959bd.jpg" width="1920" height="1080" class="img_ev3q"></li>
-</ul>]]></content>
-        <category label="ITC" term="ITC"/>
-        <category label="ITA" term="ITA"/>
-        <category label="ETS2" term="ETS2"/>
-        <category label="ATS" term="ATS"/>
-        <category label="LIVE" term="LIVE"/>
-        <category label="CONVOGLIO" term="CONVOGLIO"/>
-        <category label="CONVOY" term="CONVOY"/>
-        <category label="FOTO" term="FOTO"/>
-        <category label="FOTOGRAFIA" term="FOTOGRAFIA"/>
-        <category label="CAMION" term="CAMION"/>
     </entry>
 </feed>
