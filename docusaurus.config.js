@@ -69,6 +69,10 @@ const config = {
             title: 'Streamer Ufficiali',
             items: [
               {
+                label: 'bitpredator',
+                href: 'https://www.twitch.tv/bitpredator',
+              },
+              {
                 label: 'spada_fighter',
                 href: 'https://www.twitch.tv/spada_fighter',
               },
