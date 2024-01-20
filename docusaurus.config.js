@@ -3,7 +3,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'ITALIAN TRUCK COMPANY 2023',
-  favicon: 'img/iconaitc.ico',
+  favicon: 'https://cdn.discordapp.com/attachments/1198249432290959461/1198249793210830889/itc_logo.jpg?ex=65be3815&is=65abc315&hm=8b1bfae8ff9126e7a6ac4fb4093d61294d6cec03a05307a5e06e3072144dec8d&/favicon.png?width=800&height=800',
 
   // Set the production url of your site here
   url: 'https://italiantruckcompany.github.io',
@@ -51,7 +51,10 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: ' 🚚 HOMEPAGE',
+        title: 'HOMEPAGE',
+        logo: {
+          src: 'https://cdn.discordapp.com/attachments/1198249432290959461/1198249793210830889/itc_logo.jpg?ex=65be3815&is=65abc315&hm=8b1bfae8ff9126e7a6ac4fb4093d61294d6cec03a05307a5e06e3072144dec8d&/favicon.png?width=50&height=50',
+        },
         items: [
           {
             type: 'docSidebar',
@@ -59,7 +62,16 @@ const config = {
             position: 'left',
             label: 'TUTORIAL',
           },
-          {to: '/blog', label: 'ITC BLOG', position: 'left'},
+          {
+            href: 'https://discord.gg/yzPxXhdF6D',
+            className: "pseudo-icon discord-icon",
+            position: 'right',
+          },
+          {
+            to: '/blog',
+            label: 'ITC BLOG',
+            position: 'left'
+          },
         ],
       },
       footer: {
@@ -100,10 +112,6 @@ const config = {
               {
                 label: 'TruckersMP VTC',
                 href: 'https://truckersmp.com/vtc/60781',
-              },
-              {
-                label: 'Discord',
-                href: 'https://discord.gg/yzPxXhdF6D',
               },
               {
                 label: 'TrucksBook',
