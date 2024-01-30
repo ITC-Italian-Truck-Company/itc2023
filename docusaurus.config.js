@@ -128,6 +128,15 @@ const config = {
               }
             ],
           },
+          {
+            title: 'TruckersMP Maps',
+            items: [
+              {
+                label: 'Live Maps',
+                href: 'https://map.truckersmp.com/',
+              }
+            ],
+          },
         ],
         copyright: `Copyright © ${new Date().getFullYear()} Italian Truck Company`,
       },
