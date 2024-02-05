@@ -3,7 +3,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'ITALIAN TRUCK COMPANY 2023',
-  favicon: 'https://cdn.discordapp.com/attachments/1198249432290959461/1198249793210830889/itc_logo.jpg?ex=65be3815&is=65abc315&hm=8b1bfae8ff9126e7a6ac4fb4093d61294d6cec03a05307a5e06e3072144dec8d&/favicon.png?width=800&height=800',
+  favicon: 'https://cdn.discordapp.com/attachments/1198249432290959461/1202744909967396964/logo_server.png?ex=65ce927c&is=65bc1d7c&hm=e5abd49358a9e0def75447d8d5d3d9a2b9534315d936e5013313c0e1d1d8e52a&/favicon.png?width=800&height=800',
 
   // Set the production url of your site here
   url: 'https://italiantruckcompany.github.io',
@@ -53,7 +53,7 @@ const config = {
       navbar: {
         title: 'HOMEPAGE',
         logo: {
-          src: 'https://cdn.discordapp.com/attachments/1198249432290959461/1198249793210830889/itc_logo.jpg?ex=65be3815&is=65abc315&hm=8b1bfae8ff9126e7a6ac4fb4093d61294d6cec03a05307a5e06e3072144dec8d&/favicon.png?width=50&height=50',
+          src: 'https://cdn.discordapp.com/attachments/1198249432290959461/1202744909967396964/logo_server.png?ex=65ce927c&is=65bc1d7c&hm=e5abd49358a9e0def75447d8d5d3d9a2b9534315d936e5013313c0e1d1d8e52a&/favicon.png?width=50&height=50',
         },
         items: [
           {
