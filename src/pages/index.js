@@ -10,7 +10,7 @@ function HomepageHeader() {
       <div className="container">
         <head><meta name="google-site-verification" content="Kg9ShFJONmQ9gcsz43sOGRWnUkQWwMqd4aVhSLEA1DE" /></head>
         <img1>
-          <img src="img\20231221230351_1.jpg"></img>
+          <img src="img\ets2_20240203_223845_00.jpg"></img>
         </img1>
 
         <div>
