@@ -34,7 +34,7 @@ Tieni a mente che TruckersMP ha un suo manager delle mod e, per questo, non vedr
 # Step 5
 Avvia il launcher di TruckersMP, seleziona l'opzione di avviare Euro Truck Simulator 2 e unisciti a un server con l'icona di ProMods. Per favore nota che ci potrebbe volere un po' di tempo per superare la schermata di caricamento. Euro Truck Simulator 2 ti mostrerà un avvertimento di "Rilevate mod mancanti". Devi cliccare su “Carica comunque” e ProMods si avvierà correttamente.
 
-Se scegli un server ProMods, ma ricevi comunque un errore, dovrai leggere questo errore e sistemarlo. Nel caso tu non sia in grado di correggere l'errore, sentiti libero di chiedere aiuto su discord: https://discord.gg/yzPxXhdF6D
+Se scegli un server ProMods, ma ricevi comunque un errore, dovrai leggere questo errore e sistemarlo. Nel caso tu non sia in grado di correggere l'errore, sentiti libero di chiedere aiuto su discord: https://discord.com/invite/9vCpUQpXrC
 
 ![IMG6](./img/D9QFMr6.jpg)
 Per favore ricorda che la ridistribuzione dei file di ProMods non è permessa! Questa è pirateria di software è un crimine.

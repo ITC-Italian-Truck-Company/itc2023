@@ -63,7 +63,7 @@ const config = {
             label: 'TUTORIAL',
           },
           {
-            href: 'https://discord.gg/yzPxXhdF6D',
+            href: 'https://discord.com/invite/9vCpUQpXrC',
             className: "pseudo-icon discord-icon",
             position: 'right',
           },
