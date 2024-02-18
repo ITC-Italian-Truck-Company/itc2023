@@ -7,7 +7,7 @@ La ITC 2023 è lieta di invitarvi al convoglio per il suo 1° anno di apertura!!
 - Carico: Mozzarelle
 - Km Totali: 942
 - Orario di ritrovo su Discord: 21:20
-- Link Discord: https://discord.gg/yzPxXhdF6D
+- Link Discord: https://discord.com/invite/9vCpUQpXrC
 - Orario di partenza: 21:40
 - Strade Secondarie: Si
 - Radio CB: 19
