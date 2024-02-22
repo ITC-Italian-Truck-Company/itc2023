@@ -99,6 +99,10 @@ const config = {
               {
                 label: 'italiantruckcompany2023',
                 href: 'https://www.twitch.tv/italiantruckcompany2023',
+              },
+              {
+                label: 'Yana_PewYT',
+                href: 'https://www.twitch.tv/yana_pewyt',
               }
             ],
           },
