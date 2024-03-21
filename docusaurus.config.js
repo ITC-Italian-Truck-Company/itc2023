@@ -81,10 +81,6 @@ const config = {
             title: 'Streamer Ufficiali',
             items: [
               {
-                label: 'bitpredator',
-                href: 'https://www.twitch.tv/bitpredator',
-              },
-              {
                 label: 'spada_fighter',
                 href: 'https://www.twitch.tv/spada_fighter',
               },
@@ -103,6 +99,10 @@ const config = {
               {
                 label: 'italiantruckcompany2023',
                 href: 'https://www.twitch.tv/italiantruckcompany2023',
+              },
+              {
+                label: 'Yana_PewYT',
+                href: 'https://www.twitch.tv/yana_pewyt',
               }
             ],
           },
@@ -115,26 +115,12 @@ const config = {
               },
               {
                 label: 'TrucksBook',
-                href: 'https://trucksbook.eu/company/168755 ',
+                href: 'https://trucksbook.eu/company/168755',
               },
-            ],
-          },
-          {
-            title: 'Developer',
-            items: [
               {
-                label: 'bitpredator',
-                href: 'https://github.com/bitpredator',
-              }
-            ],
-          },
-          {
-            title: 'TruckersMP Maps',
-            items: [
-              {
-                label: 'Live Maps',
-                href: 'https://map.truckersmp.com/',
-              }
+                label: 'Discord',
+                href: 'https://discord.com/invite/9vCpUQpXrC',
+              },
             ],
           },
         ],
