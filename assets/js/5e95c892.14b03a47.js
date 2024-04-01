@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkitc_truck_company=self.webpackChunkitc_truck_company||[]).push([[9661],{1892:(c,e,r)=>{r.r(e),r.d(e,{default:()=>p});r(7294);var s=r(512),t=r(1944),u=r(5281),a=r(8790),n=r(6040),k=r(5893);function p(c){return(0,k.jsx)(t.FG,{className:(0,s.Z)(u.k.wrapper.docsPages),children:(0,k.jsx)(n.Z,{children:(0,a.H)(c.route.routes)})})}}}]);
