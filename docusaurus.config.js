@@ -23,8 +23,8 @@ const config = {
   // useful metadata like html lang. For example, if your site is Chinese, you
   // may want to replace "en" with "zh-Hans".
   i18n: {
-    defaultLocale: 'it',
-    locales: ['it'],
+    defaultLocale: 'en',
+    locales: ['en'],
   },
 
   presets: [
@@ -63,11 +63,6 @@ const config = {
             label: 'TUTORIAL',
           },
           {
-            href: 'https://discord.com/invite/9vCpUQpXrC',
-            className: "pseudo-icon discord-icon",
-            position: 'right',
-          },
-          {
             to: '/blog',
             label: 'ITC BLOG',
             position: 'left'
@@ -81,16 +76,16 @@ const config = {
             title: 'Streamer Ufficiali',
             items: [
               {
+                label: 'Bitpredator',
+                href: 'https://www.twitch.tv/bitpredator',
+              },
+              {
                 label: 'spada_fighter',
                 href: 'https://www.twitch.tv/spada_fighter',
               },
               {
                 label: 'robby__25',
                 href: 'https://www.twitch.tv/robby__25',
-              },
-              {
-                label: 'scaniav8pinasco86',
-                href: 'https://www.twitch.tv/scaniav8pinasco86',
               },
               {
                 label: 'spumeggiante75',
