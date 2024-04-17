@@ -15,6 +15,6 @@ sidebar_position: 2
 
 - 4) Una volta scaricato ed installato il client, impostare la lingua in italiano e accedere con il proprio account Steam.
 
-# Ecco come verrà visualizzato il trucky in gioco una volta installato
-
+# Ecco come verrà visualizzato il trucky durante la sessione di gioco una volta installato
+![IMG4](./img/example.jpg)
 
