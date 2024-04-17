@@ -1,3 +1,7 @@
+---
+sidebar_position: 1
+---
+
 # Cos'è Trucky ?
 
 ![IMG1](./img/truckywelcome.jpg)
