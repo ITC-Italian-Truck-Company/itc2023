@@ -118,6 +118,15 @@ const config = {
               },
             ],
           },
+          {
+            title: 'Sviluppatore',
+            items: [
+              {
+                label: 'Bitpredator',
+                href: 'https://github.com/bitpredator',
+              },
+            ],
+          },
         ],
         copyright: `Copyright © ${new Date().getFullYear()} Italian Truck Company`,
       },
