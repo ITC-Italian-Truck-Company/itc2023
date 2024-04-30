@@ -10,11 +10,11 @@ function HomepageHeader() {
       <div className="container">
         <head><meta name="google-site-verification" content="Kg9ShFJONmQ9gcsz43sOGRWnUkQWwMqd4aVhSLEA1DE" /></head>
         <img1>
-          <img src="img\ets2_20240203_223845_00.jpg"></img>
+          <img src="img\ets2_banner.gif"></img>
         </img1>
 
         <div>
-          <font face="Verdana, Arial, Helvetica, sans-serif" color="red">
+          <font face="Verdana, Arial, Helvetica, sans-serif" color="black">
             <font size="7">Chi Siamo ?</font>
           </font>
           <p>

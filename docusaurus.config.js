@@ -23,8 +23,8 @@ const config = {
   // useful metadata like html lang. For example, if your site is Chinese, you
   // may want to replace "en" with "zh-Hans".
   i18n: {
-    defaultLocale: 'it',
-    locales: ['it'],
+    defaultLocale: 'en',
+    locales: ['en'],
   },
 
   presets: [
@@ -63,11 +63,6 @@ const config = {
             label: 'TUTORIAL',
           },
           {
-            href: 'https://discord.com/invite/9vCpUQpXrC',
-            className: "pseudo-icon discord-icon",
-            position: 'right',
-          },
-          {
             to: '/blog',
             label: 'ITC BLOG',
             position: 'left'
@@ -78,35 +73,6 @@ const config = {
         style: 'dark',
         links: [
           {
-            title: 'Streamer Ufficiali',
-            items: [
-              {
-                label: 'bitpredator',
-                href: 'https://www.twitch.tv/bitpredator',
-              },
-              {
-                label: 'spada_fighter',
-                href: 'https://www.twitch.tv/spada_fighter',
-              },
-              {
-                label: 'robby__25',
-                href: 'https://www.twitch.tv/robby__25',
-              },
-              {
-                label: 'scaniav8pinasco86',
-                href: 'https://www.twitch.tv/scaniav8pinasco86',
-              },
-              {
-                label: 'spumeggiante75',
-                href: 'https://www.twitch.tv/spumeggiante75',
-              },
-              {
-                label: 'italiantruckcompany2023',
-                href: 'https://www.twitch.tv/italiantruckcompany2023',
-              }
-            ],
-          },
-          {
             title: 'Community',
             items: [
               {
@@ -115,26 +81,21 @@ const config = {
               },
               {
                 label: 'TrucksBook',
-                href: 'https://trucksbook.eu/company/168755 ',
+                href: 'https://trucksbook.eu/company/168755',
+              },
+              {
+                label: 'Discord',
+                href: 'https://discord.com/invite/9vCpUQpXrC',
               },
             ],
           },
           {
-            title: 'Developer',
+            title: 'Sviluppatore',
             items: [
               {
-                label: 'bitpredator',
+                label: 'Bitpredator',
                 href: 'https://github.com/bitpredator',
-              }
-            ],
-          },
-          {
-            title: 'TruckersMP Maps',
-            items: [
-              {
-                label: 'Live Maps',
-                href: 'https://map.truckersmp.com/',
-              }
+              },
             ],
           },
         ],
