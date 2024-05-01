@@ -1,3 +1,6 @@
+---
+sidebar_position: 4
+---
 # Streamer Spada_fighter
 
 Salve popolo autostradale, qui è Lorenzo Spada che vi parla, in arte spada_fighter! In live mi piace portare principalmente Euro Truck Simulator 2, è a volte anche Call Of Duty.

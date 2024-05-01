@@ -1,3 +1,7 @@
+---
+sidebar_position: 1
+---
+
 # Streamer Bitpredator
 
 Ciao a tutti, sono Bitpredator uno Streamer per pura passione questo è solo un hobby non è il mio lavoro.
