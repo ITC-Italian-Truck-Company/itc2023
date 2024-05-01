@@ -1,3 +1,6 @@
+---
+sidebar_position: 2
+---
 # Canale Ufficiale ITC
 
 Siamo un gruppo di amici al quale piace ridere, scherzare e giocare insieme in maniera tranquilla ad ETS2 e ATS!
