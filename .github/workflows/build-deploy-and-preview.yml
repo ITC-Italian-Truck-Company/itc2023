@@ -1,6 +1,4 @@
-# .github/workflows/preview.yml
 name: Deploy PR preview
-concurrency: preview-${{ github.ref }}
 on:
   pull_request:
     types:
@@ -8,18 +6,15 @@ on:
       - reopened
       - synchronize
       - closed
+concurrency: preview-${{ github.ref }}
 jobs:
   deploy-preview:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
-      - run: yarn install && yarn build
-        env:
-          CI: false
-        if: github.event.action != 'closed'
-      - uses: rossjrw/pr-preview-action@v1
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      - name: Deploy preview
+        uses: rossjrw/pr-preview-action@v1
         with:
-          source-dir: ./docs/public
-          preview-branch: gh-pages
-          umbrella-dir: pr-preview
-          action: auto
+          source-dir: test
