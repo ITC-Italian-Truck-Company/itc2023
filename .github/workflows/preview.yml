@@ -1,11 +1,6 @@
 name: preview.yml
-on:
-  pull_request:
-    types:
-      - opened
-      - reopened
-      - synchronize
-      - closed
+on: 
+  pull_request
 permissions:
   contents: write
 jobs:
