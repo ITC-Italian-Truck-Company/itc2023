@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkitc_truck_company=self.webpackChunkitc_truck_company||[]).push([[6386],{4469:c=>{c.exports=JSON.parse('{"name":"docusaurus-plugin-content-blog","id":"default"}')}}]);
