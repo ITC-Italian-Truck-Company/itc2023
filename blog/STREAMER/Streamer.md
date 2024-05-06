@@ -1,3 +1,6 @@
+# STREAMER UFFICIALI ITC
+
+
 # Streamer Bitpredator
 Ciao a tutti, sono Bitpredator uno Streamer per pura passione questo è solo un hobby non è il mio lavoro.
 Ho effettuato la mia prima live nel lontano 2019 su "EURO TRUCK SIMULATOR 2", con la mia prima azienda virtuale da me fondata ex: ("ARROWS PRIME ITALIA").
