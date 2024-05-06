@@ -20,4 +20,4 @@ jobs:
           source-dir: .
           preview-branch: gh-pages
           umbrella-dir: pr-preview
-          action: remove
+          action: auto
