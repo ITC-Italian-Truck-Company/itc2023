@@ -1,33 +1,23 @@
-name: preview.yml
-on: 
-  pull_request
-permissions:
-  contents: write
+# .github/workflows/preview.yml
+name: Deploy PR previews
+concurrency: preview-${{ github.ref }}
+on:
+  pull_request:
+    types:
+      - opened
+      - reopened
+      - synchronize
+      - closed
 jobs:
-  build:
-    concurrency: ci-${{ github.ref }}
+  deploy-preview:
     runs-on: ubuntu-latest
-    strategy:
-      matrix:
-        node-version: [20]
     steps:
-    - name: Checkout 🛎️
-      uses: actions/checkout@v3
-
-    - name: Setup yarn
-      uses: yarn/action-setup@v2
-      with:
-        version: 7
-
-    - name: Use Node.js ${{ matrix.node-version }}
-      uses: actions/setup-node@v3
-      with:
-        node-version: ${{ matrix.node-version }}
-        cache: 'yarn'
-
-    - name: Install & Generate 🔧
-      run: |
-        yarn install
-        yarn build
-      env:
-        NUXT_APP_BASE_URL: ${{ vars.NUXT_APP_BASE_URL  }}
+      - uses: actions/checkout@v3
+      - run: yarn i && yarn run build
+        if: github.event.action != 'closed'
+      - uses: rossjrw/pr-preview-action@v1
+        with:
+          source-dir: .
+          preview-branch: gh-pages
+          umbrella-dir: pr-preview
+          action: remove
