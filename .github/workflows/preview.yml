@@ -13,7 +13,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
-      - run: yarn i && yarn run build
+      - run: yarn install && yarn build
         if: github.event.action != 'closed'
       - uses: rossjrw/pr-preview-action@v1
         with:
