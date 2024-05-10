@@ -1,0 +1,63 @@
+name: Windows Tests
+
+on:
+  pull_request:
+    branches:
+      - main
+      - docusaurus-v**
+    paths:
+      - package.json
+      - yarn.lock
+      - jest.config.mjs
+      - packages/**
+      - tsconfig.*.json
+
+concurrency:
+  group: ${{ github.workflow }}-${{ github.head_ref || github.run_id }}
+  cancel-in-progress: true
+
+permissions:
+  contents: read
+
+jobs:
+  windows-test:
+    name: Windows Tests
+    timeout-minutes: 30
+    runs-on: windows-latest
+    strategy:
+      matrix:
+        node: ['18.0', '18', '20']
+    steps:
+      - name: Support longpaths
+        run: git config --system core.longpaths true
+      - name: Checkout
+        uses: actions/checkout@b4ffde65f46336ab88eb53be808477a3936bae11 # v4.1.1
+      - name: Use Node.js ${{ matrix.node }}
+        uses: actions/setup-node@60edb5dd545a775178f52524783378180af0d1f8 # v4.0.2
+        with:
+          node-version: ${{ matrix.node }}
+      - name: Installation
+        run: yarn || yarn || yarn # 3 attempts to avoid timeout errors...
+      - name: Docusaurus Jest Tests
+        run: yarn test
+      - name: Create a deep path
+        run: |
+          mkdir -p "website/_dogfooding/_pages tests/deep-file-path-test/bar/foo/bar/foo/bar/foo/bar/foo/bar/foo/bar/foo/bar/foo/bar/foo/bar/foo/bar/foo/bar/foo/bar/foo/bar/foo/bar/foo/bar/foo/bar/foo/bar/foo/bar/foo/bar/foo/bar/foo/bar/foo/bar/foo/bar/foo/bar/foo/bar/foo/bar/foo/bar/foo/bar/foo/bar/foo/bar/foo/bar/foo/bar"
+          cd "$_"
+          echo "# hello" > test-file.md
+      # Lightweight version of tests-swizzle.yml workflow, but for Windows
+      - name: Swizzle Wrap TS
+        run: yarn workspace website test:swizzle:wrap:ts
+      - name: Docusaurus Build
+        run: yarn build:website:fast
+
+      - name: TypeCheck website
+        run: yarn workspace website typecheck
+      - name: TypeCheck website - min version - v5.1
+        run: |
+          yarn workspace website add typescript@5.1.6 --exact
+          yarn workspace website typecheck
+      - name: TypeCheck website - max version - Latest
+        run: |
+          yarn workspace website add typescript@latest --exact
+          yarn workspace website typecheck
