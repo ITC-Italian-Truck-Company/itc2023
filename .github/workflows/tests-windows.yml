@@ -4,7 +4,6 @@ on:
   pull_request:
     branches:
       - main
-      - docusaurus-v**
     paths:
       - package.json
       - yarn.lock
