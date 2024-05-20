@@ -1,6 +1,5 @@
 # STREAMER UFFICIALI ITC
 
-
 # Streamer Bitpredator
 Ciao a tutti, sono Bitpredator uno Streamer per pura passione questo è solo un hobby non è il mio lavoro.
 Ho effettuato la mia prima live nel lontano 2019 su "EURO TRUCK SIMULATOR 2", con la mia prima azienda virtuale da me fondata ex: ("ARROWS PRIME ITALIA").
@@ -28,3 +27,11 @@ Iscrivetevi al mio canale Twitch, attivando le notifiche per rimanere aggiornati
 
 # Streamer Yana_PewYT
 Ciao a tutti, sono un giovane Youtuber italiano di 17 anni. Fin da piccolo ho sviluppato una grande passione per i videogiochi e la musica. Nel mio canale, troverete una varietà di video in cui gioco ai videogiochi e condivido la mia esperienza con voi.
+
+# Streamer Spumeggiante75
+Salve a tutti sono Spumeggiante75, sono un'appassionato del mondo videoludico, spesso mi vedrete giocare a vari titoli simulativi come
+ETS2 & ATS. Potete trovarmi in live su twitch oppure guardare i miei video su Youtube
+
+I Miei Social
+- Link Youtube: https://www.youtube.com/@calogerosiragusa8909
+- Link twitch: https://www.twitch.tv/spumeggiante75
