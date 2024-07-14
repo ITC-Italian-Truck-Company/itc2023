@@ -10,3 +10,4 @@ tags: [ITC, ITA, ETS2, ATS, LIVE, CONVOGLIO, CONVOY, FOTO, FOTOGRAFIA, CAMION]
 - Foto 1° anniversario Italian Truck Company 2023
 ![IMG3](./ets2_20240203_223717_000.png)
 ![IMG4](./ets2_20240203_223717_00.jpg)
+![IMG5](./20240704220902_1.jpg)
