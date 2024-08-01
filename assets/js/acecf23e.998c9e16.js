@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkitc_truck_company=self.webpackChunkitc_truck_company||[]).push([[1903],{1912:c=>{c.exports=JSON.parse('{"blogBasePath":"/itc2023/blog","blogTitle":"Blog"}')}}]);
