@@ -19,3 +19,14 @@ tags: [ITC, ITA, ETS2, ATS, LIVE, CONVOGLIO, CONVOY, FOTO, FOTOGRAFIA, CAMION]
 ![IMG11](./20240730223642_1.jpg)
 ![IMG12](./20240730225046_1.jpg)
 ![IMG13](./20230211221827_1.jpg)
+
+- Foto con Frecciarossa e Cristian
+![IMG14](./ets2_20240802_222653_00.png)
+![IMG15](./ets2_20240802_222643_00.png)
+![IMG16](./ets2_20240802_222358_00.png)
+![IMG17](./ets2_20240802_222343_00.png)
+![IMG18](./20240802222649_1.jpg)
+![IMG19](./ets2_20240802_225232_00.png)
+
+- Foto American Truck Simulator Robby
+![IMG20](./ats_20240804_105237_00.png)
