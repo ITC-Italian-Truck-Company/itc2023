@@ -1346,11 +1346,6 @@
     url-loader "^4.1.1"
     vfile "^6.0.1"
     webpack "^5.88.1"
-
-"@docusaurus/module-type-aliases@3.5.2", "@docusaurus/module-type-aliases@^3.5.2":
-  version "3.5.2"
-  resolved "https://registry.yarnpkg.com/@docusaurus/module-type-aliases/-/module-type-aliases-3.5.2.tgz#4e8f9c0703e23b2e07ebfce96598ec83e4dd2a9e"
-  integrity sha512-Z+Xu3+2rvKef/YKTMxZHsEXp1y92ac0ngjDiExRdqGTmEKtCUpkbNYH8v5eXo5Ls+dnW88n6WTa+Q54kLOkwPg==
   dependencies:
     "@docusaurus/types" "3.5.2"
     "@types/history" "^4.7.11"
@@ -1359,20 +1354,6 @@
     "@types/react-router-dom" "*"
     react-helmet-async "*"
     react-loadable "npm:@docusaurus/react-loadable@6.0.0"
-
-"@docusaurus/plugin-content-blog@3.5.2", "@docusaurus/plugin-content-blog@^3.5.2":
-  version "3.5.2"
-  resolved "https://registry.yarnpkg.com/@docusaurus/plugin-content-blog/-/plugin-content-blog-3.5.2.tgz#649c07c34da7603645f152bcebdf75285baed16b"
-  integrity sha512-R7ghWnMvjSf+aeNDH0K4fjyQnt5L0KzUEnUhmf1e3jZrv3wogeytZNN6n7X8yHcMsuZHPOrctQhXWnmxu+IRRg==
-  dependencies:
-    "@docusaurus/core" "3.5.2"
-    "@docusaurus/logger" "3.5.2"
-    "@docusaurus/mdx-loader" "3.5.2"
-    "@docusaurus/theme-common" "3.5.2"
-    "@docusaurus/types" "3.5.2"
-    "@docusaurus/utils" "3.5.2"
-    "@docusaurus/utils-common" "3.5.2"
-    "@docusaurus/utils-validation" "3.5.2"
     cheerio "1.0.0-rc.12"
     feed "^4.2.2"
     fs-extra "^11.1.1"
@@ -1591,11 +1572,6 @@
     utility-types "^3.10.0"
     webpack "^5.88.1"
     webpack-merge "^5.9.0"
-
-"@docusaurus/utils-common@3.5.2":
-  version "3.5.2"
-  resolved "https://registry.yarnpkg.com/@docusaurus/utils-common/-/utils-common-3.5.2.tgz#4d7f5e962fbca3e2239d80457aa0e4bd3d8f7e0a"
-  integrity sha512-i0AZjHiRgJU6d7faQngIhuHKNrszpL/SHQPgF1zH4H+Ij6E9NBYGy6pkcGWToIv7IVPbs+pQLh1P3whn0gWXVg==
   dependencies:
     tslib "^2.6.0"
 
