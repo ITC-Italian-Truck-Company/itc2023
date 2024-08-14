@@ -1,7 +1,10 @@
 ---
+authors: [bitpredator, ziospada]
 sidebar_position: 1
 ---
+
 # BLOG ITC
+<!-- truncate -->
 
 # CHI SIAMO ?
 La Italian Truck Company 2023 meglio conosciuta come "ITC 2023" è formata da un gruppo di amici appassionati del modo videoludico e simulativo, nello specifico, siamo grandi appassionati dei simulatori di guida (ETS2 & ATS) ma ciò non toglie che siamo aperti anche ad altri giochi e di genere diverso.
