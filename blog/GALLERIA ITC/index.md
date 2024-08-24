@@ -32,3 +32,9 @@ authors: [bitpredator, ziospada, robby__25]
 
 # I Nostri Viaggi SU ATS
 ![IMG20](./ats_20240804_105237_00.png)
+
+# Convoglio 22 Agosto 2024
+![IMG21](./20240822212601_1.jpg)
+![IMG22](./20240822220342_1.jpg)
+![IMG23](./20240822221309_1.jpg)
+![IMG24](./20240822224415_1.jpg)
