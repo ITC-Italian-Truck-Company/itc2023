@@ -38,3 +38,7 @@ authors: [bitpredator, ziospada, robby__25]
 ![IMG22](./20240822220342_1.jpg)
 ![IMG23](./20240822221309_1.jpg)
 ![IMG24](./20240822224415_1.jpg)
+
+# Foto del viaggio del 26 Agosto 2024
+![IMG25](./20240826205608_1.jpg)
+![IMG26](./20240827223846_1.jpg)
