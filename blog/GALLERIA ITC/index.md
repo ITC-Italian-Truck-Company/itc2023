@@ -42,3 +42,7 @@ authors: [bitpredator, ziospada, robby__25]
 # Foto del viaggio del 26 Agosto 2024
 ![IMG25](./20240826205608_1.jpg)
 ![IMG26](./20240827223846_1.jpg)
+
+# Foto del viaggio di Robby, Andrea e Zio
+![IMG27](./ets2_20240909_215920_00.png)
+![IMG28](./ets2_20240909_225533_00.png)
