@@ -46,3 +46,14 @@ authors: [bitpredator, ziospada, robby__25]
 # Foto del viaggio di Robby, Andrea e Zio
 ![IMG27](./ets2_20240909_215920_00.png)
 ![IMG28](./ets2_20240909_225533_00.png)
+
+# Viaggio della speranza di Robby, 4500 km! Da Faro a San Pietroburgo
+![IMG29](./20240920201031_1.jpg)
+![IMG30](./20240920201036_1.jpg)
+![IMG31](./20240920205541_1.jpg)
+![IMG32](./20240921204414_1.jpg)
+![IMG33](./20240920211402_1.jpg)
+![IMG34](./20240921212702_1.jpg)
+![IMG35](./20240921214820_1.jpg)
+![IMG36](./20240921221652_1.jpg)
+![IMG37](./20240921222134_1.jpg)
