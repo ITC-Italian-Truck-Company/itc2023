@@ -57,3 +57,9 @@ authors: [bitpredator, ziospada, robby__25]
 ![IMG35](./20240921214820_1.jpg)
 ![IMG36](./20240921221652_1.jpg)
 ![IMG37](./20240921222134_1.jpg)
+
+# Viaggio di Robby, Zio e Alessandro
+![IMG38](./20241005214026_1.jpg)
+![IMG39](./20241005220312_1.jpg)
+![IMG40](./20241005221705_1.jpg)
+![IMG41](./20241005235700_1.jpg)
