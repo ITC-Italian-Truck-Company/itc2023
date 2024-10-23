@@ -1,6 +1,6 @@
 # Convoglio da 128 Giocatori
 
-In questa guida ci occuperemo su come configurare la lobby su 128 slot per ETS2 & ATS, questa novità è stata introdotta dalla SCS SOFTWARE a partire dalla versione 1.50. Questa procedura non viola nessuna regola interna alla SCS.
+In questa guida ci occuperemo di come configurare la lobby su 128 slot per ETS2 & ATS, questa novità è stata introdotta dalla SCS SOFTWARE a partire dalla versione 1.50. Questa procedura non viola nessuna regola interna alla SCS.
 
 Per abilitare i 128 slots abbiamo a disposizione 2 metodi;
 
