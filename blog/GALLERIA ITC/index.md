@@ -63,3 +63,11 @@ authors: [bitpredator, ziospada, robby__25]
 ![IMG39](./20241005220312_1.jpg)
 ![IMG40](./20241005221705_1.jpg)
 ![IMG41](./20241005235700_1.jpg)
+
+#Foto Convoglio RODINNA' FIRMA TRASNPORT S.R.O
+![IMG42](./20241102212545_1.jpg)
+![IMG43](./20241102221417_1.jpg)
+![IMG44](./ets2_20241103_004243_00.png)
+![IMG45](./ets2_20241103_004400_00.png)
+![IMG46](./ets2_20241103_004359_00.png)
+![IMG47](./ets2_20241103_004359_01.png)
