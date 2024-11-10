@@ -64,10 +64,19 @@ authors: [bitpredator, ziospada, robby__25]
 ![IMG40](./20241005221705_1.jpg)
 ![IMG41](./20241005235700_1.jpg)
 
-#Foto Convoglio RODINNA' FIRMA TRASNPORT S.R.O
+# Foto Convoglio RODINNA' FIRMA TRASNPORT S.R.O
 ![IMG42](./20241102212545_1.jpg)
 ![IMG43](./20241102221417_1.jpg)
 ![IMG44](./ets2_20241103_004243_00.png)
 ![IMG45](./ets2_20241103_004400_00.png)
 ![IMG46](./ets2_20241103_004359_00.png)
 ![IMG47](./ets2_20241103_004359_01.png)
+
+# Foto convoglio Aziendale ITC 9 Novembre 2024
+![IMG48](./20241109215533_1.jpg)
+![IMG49](./20241109215533_1.jpg)
+![IMG50](./20241109222429_1.jpg)
+![IMG51](./20241109230801_1.jpg)
+
+# Live Disponibile anche sul Canale Youtube: https://youtu.be/T3OVNet0Z38?si=Bu1rGN9lyVXdvHpP
+![IMG52](./20241109230801_1.jpg)
