@@ -72,11 +72,11 @@ authors: [bitpredator, ziospada, robby__25]
 ![IMG46](./ets2_20241103_004359_00.png)
 ![IMG47](./ets2_20241103_004359_01.png)
 
-# Foto del convoglio aziendale di ieri sera! Siamo arrivati a destinazione tutti sani e salvi, soprattutto Robby!
+# Foto convoglio Aziendale ITC 9 Novembre 2024
 ![IMG48](./20241109215533_1.jpg)
 ![IMG49](./20241109215533_1.jpg)
 ![IMG50](./20241109222429_1.jpg)
 ![IMG51](./20241109230801_1.jpg)
 
-# Per chi volesse rivedere la live fatta da Robby ieri sera, ecco il link che vi rimanderà al canale YouTube dell'azienda: https://youtu.be/T3OVNet0Z38?si=Bu1rGN9lyVXdvHpP
-![IMG52](./Screenshot 2024-11-10 103151.png)
+# Live Disponibile anche sul Canale Youtube: https://youtu.be/T3OVNet0Z38?si=Bu1rGN9lyVXdvHpP
+![IMG52](./20241109230801_1.jpg)
