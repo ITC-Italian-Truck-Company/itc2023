@@ -80,3 +80,16 @@ authors: [bitpredator, ziospada, robby__25]
 
 # Live Disponibile anche sul Canale Youtube: https://youtu.be/T3OVNet0Z38?si=Bu1rGN9lyVXdvHpP
 ![IMG52](./20241109230801_1.jpg)
+
+# Foto Convoglio RODINNA' 1 Dicembre 2024
+![IMG53](./ets2_20241130_204643_00.png)
+![IMG54](./ets2_20241130_204756_00.png)
+![IMG55](./ets2_20241130_211416_00.png)
+![IMG56](./ets2_20241130_211829_00.png)
+![IMG57](./ets2_20241130_211829_00.png)
+![IMG58](./ets2_20241130_215631_00.png)
+![IMG59](./ets2_20241130_230932_00.png)
+![IMG60](./ets2_20241130_230950_00.png)
+![IMG61](./ets2_20241130_231817_00.png)
+![IMG62](./ets2_20241130_231848_00.png)
+![IMG63](./image.png)
