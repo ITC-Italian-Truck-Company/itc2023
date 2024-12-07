@@ -93,3 +93,10 @@ authors: [bitpredator, ziospada, robby__25]
 ![IMG61](./ets2_20241130_231817_00.png)
 ![IMG62](./ets2_20241130_231848_00.png)
 ![IMG63](./image.png)
+
+# Esplorando la Grecia con Andrea, Zio e Bit
+![IMG64](./20241204221521_1.jpg)
+![IMG65](./20241204231034_1.jpg)
+![IMG66](./ets2_20241204_230854_00.png)
+![IMG67](./ets2_20241204_230937_00.png)
+![IMG68](./ets2_20241204_230945_00.png)
