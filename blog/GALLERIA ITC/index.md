@@ -100,3 +100,7 @@ authors: [bitpredator, ziospada, robby__25]
 ![IMG66](./ets2_20241204_230854_00.png)
 ![IMG67](./ets2_20241204_230937_00.png)
 ![IMG68](./ets2_20241204_230945_00.png)
+
+# L'Esplorazione della Grecia continua...
+![IMG69](./20241207214332_1.jpg)
+![IMG70](./20241207223209_1.jpg)
