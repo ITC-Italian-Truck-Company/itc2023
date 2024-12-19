@@ -2438,7 +2438,7 @@
     webpack "^5.95.0"
     webpackbar "^6.0.1"
 
-"@docusaurus/core@3.6.3", "@docusaurus/core@^3.5.2":
+"@docusaurus/core@3.6.3", "@docusaurus/core@^3.6.3":
   version "3.6.3"
   resolved "https://registry.yarnpkg.com/@docusaurus/core/-/core-3.6.3.tgz#6bf968ee26a36d71387bab293f27ccffc0e428b6"
   integrity sha512-xL7FRY9Jr5DWqB6pEnqgKqcMPJOX5V0pgWXi5lCiih11sUBmcFKM7c3+GyxcVeeWFxyYSDP3grLTWqJoP4P9Vw==
@@ -2548,7 +2548,7 @@
     react-helmet-async "*"
     react-loadable "npm:@docusaurus/react-loadable@6.0.0"
 
-"@docusaurus/plugin-content-blog@3.6.3", "@docusaurus/plugin-content-blog@^3.5.2":
+"@docusaurus/plugin-content-blog@3.6.3", "@docusaurus/plugin-content-blog@^3.6.3":
   version "3.6.3"
   resolved "https://registry.yarnpkg.com/@docusaurus/plugin-content-blog/-/plugin-content-blog-3.6.3.tgz#d6a597e4bfdeb3f1f6ce06d2ac86207296988cc9"
   integrity sha512-k0ogWwwJU3pFRFfvW1kRVHxzf2DutLGaaLjAnHVEU6ju+aRP0Z5ap/13DHyPOfHeE4WKpn/M0TqjdwZAcY3kAw==
