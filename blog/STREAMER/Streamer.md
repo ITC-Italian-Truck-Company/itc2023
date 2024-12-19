@@ -1,5 +1,5 @@
 ---
-authors: [bitpredator, ziospada]
+authors: [bitpredator]
 ---
 
 # STREAMER UFFICIALI ITC
