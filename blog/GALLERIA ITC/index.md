@@ -104,3 +104,8 @@ authors: [bitpredator, ziospada, robby__25]
 # L'Esplorazione della Grecia continua...
 ![IMG69](./20241207214332_1.jpg)
 ![IMG70](./20241207223209_1.jpg)
+
+# In viaggio sulle strade americane con Zio, Bit, Busco e Andrea
+![IMG71](./20241218221849_1.jpg)
+![IMG72](./20241218222200_1.jpg)
+![IMG73](./ats_20241218_222148_00.png)
