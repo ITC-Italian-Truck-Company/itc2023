@@ -109,3 +109,12 @@ authors: [bitpredator, ziospada, robby__25]
 ![IMG71](./20241218221849_1.jpg)
 ![IMG72](./20241218222200_1.jpg)
 ![IMG73](./ats_20241218_222148_00.png)
+
+# Foto del nostro convoglio natalizio con la Rodinnà
+![IMG74](./20241221233024_1.jpg)
+![IMG75](./20241222222258_1.jpg)
+![IMG76](./20241222224229_1.jpg)
+![IMG77](./20241222231758_1.jpg)
+![IMG78](./20241223000149_1.jpg)
+
+# Live del convoglio disponibile anche sul nostro canale YouTube: https://youtu.be/ZFgMBEPR_og?si=mjiU58QCd4zBRmmw
