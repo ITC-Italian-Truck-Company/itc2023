@@ -118,3 +118,7 @@ authors: [bitpredator, ziospada, robby__25]
 ![IMG78](./20241223000149_1.jpg)
 
 # Live del convoglio disponibile anche sul nostro canale YouTube: https://youtu.be/ZFgMBEPR_og?si=mjiU58QCd4zBRmmw
+
+# Viaggio del Venerdì sera
+![IMG79](./20250109215845_1.jpg)
+![IMG80](./20250110220855_1.jpg)
