@@ -18,7 +18,7 @@ function HomepageHeader() {
             <font size="7">Chi Siamo ?</font>
           </font>
           <p>
-            La Fenice Italian è un'azienda di autotrasporti virtuale ATS ed ETS2 come nessun'altra.
+            La Fenice Italiana è un'azienda di autotrasporti virtuale ATS ed ETS2 come nessun'altra.
             Siamo un gruppo impegnato a cambiare il modo dell'autotrasporto virtuale.
             Assumiamo camionisti da tutta Italia che si impegnano a diventare membri preziosi della nostra azienda.
             La nostra missione è sempre stata quella di costruire un luogo in cui il gruppo possa incontrarsi per formare una comunità amichevole.

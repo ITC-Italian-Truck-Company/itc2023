@@ -64,7 +64,7 @@ const config = {
           },
           {
             to: '/blog',
-            label: 'ITC BLOG',
+            label: 'LFI BLOG',
             position: 'left'
           },
         ],
