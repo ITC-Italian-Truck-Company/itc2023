@@ -10,7 +10,7 @@ function HomepageHeader() {
       <div className="container">
         <head><meta name="google-site-verification" content="Kg9ShFJONmQ9gcsz43sOGRWnUkQWwMqd4aVhSLEA1DE" /></head>
         <img1>
-          <img src="img\ets2_banner.gif"></img>
+          <img src="https://cdn.discordapp.com/attachments/1205832593744859156/1329533853945303132/fenixgold.png?ex=678ea4e4&is=678d5364&hm=dba6327096236b78d0111fefd992d206e91722dbe14a3151737676128501389a&?width=50&height=50"></img>
         </img1>
 
         <div>
@@ -18,7 +18,7 @@ function HomepageHeader() {
             <font size="7">Chi Siamo ?</font>
           </font>
           <p>
-            La Italian Truck Company 2023 è un'azienda di autotrasporti virtuale ATS ed ETS2 come nessun'altra.
+            La Fenice Italian è un'azienda di autotrasporti virtuale ATS ed ETS2 come nessun'altra.
             Siamo un gruppo impegnato a cambiare il modo dell'autotrasporto virtuale.
             Assumiamo camionisti da tutta Italia che si impegnano a diventare membri preziosi della nostra azienda.
             La nostra missione è sempre stata quella di costruire un luogo in cui il gruppo possa incontrarsi per formare una comunità amichevole.
@@ -35,7 +35,7 @@ export default function Home() {
   return (
     <Layout
       title={`Benvenuti in ${siteConfig.title}`}
-      description="[ITC] Italian Truck Company 2023 è una compagnia di trasporti virtuali,
+      description="[LFI] La Fenice Italiana è una compagnia di trasporti virtuali,
        formata da un gruppo di amici con la passione per Euro Truck Simulator 2 & American Truck Simulator.
       <head />">
       <HomepageHeader />

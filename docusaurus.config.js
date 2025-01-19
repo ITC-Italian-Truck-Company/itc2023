@@ -2,19 +2,19 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'ITALIAN TRUCK COMPANY 2023',
-  favicon: 'https://cdn.discordapp.com/attachments/1198249432290959461/1202744909967396964/logo_server.png?ex=65ce927c&is=65bc1d7c&hm=e5abd49358a9e0def75447d8d5d3d9a2b9534315d936e5013313c0e1d1d8e52a&/favicon.png?width=800&height=800',
+  title: 'LA FENICE ITALIANA',
+  favicon: 'https://cdn.discordapp.com/attachments/1205832593744859156/1329533853945303132/fenixgold.png?ex=678ea4e4&is=678d5364&hm=dba6327096236b78d0111fefd992d206e91722dbe14a3151737676128501389a&?width=800&height=800',
 
   // Set the production url of your site here
-  url: 'https://italiantruckcompany.github.io',
+  url: 'https://lfi.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/itc2023/',
+  baseUrl: '/lfi/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'Italian Truck Company', // Usually your GitHub org/user name.
-  projectName: 'ITC-WebSite', // Usually your repo name.
+  organizationName: 'La Fenice Italiana', // Usually your GitHub org/user name.
+  projectName: 'LFI-WebSite', // Usually your repo name.
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -53,7 +53,7 @@ const config = {
       navbar: {
         title: 'HOMEPAGE',
         logo: {
-          src: 'https://cdn.discordapp.com/attachments/1198249432290959461/1202744909967396964/logo_server.png?ex=65ce927c&is=65bc1d7c&hm=e5abd49358a9e0def75447d8d5d3d9a2b9534315d936e5013313c0e1d1d8e52a&/favicon.png?width=50&height=50',
+          src: 'https://cdn.discordapp.com/attachments/1205832593744859156/1329533853945303132/fenixgold.png?ex=678ea4e4&is=678d5364&hm=dba6327096236b78d0111fefd992d206e91722dbe14a3151737676128501389a&?width=50&height=50',
         },
         items: [
           {
