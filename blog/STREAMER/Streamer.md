@@ -12,9 +12,6 @@ Nella vita mi occupo di programmazione software almeno cosi narrano i miei super
 Fin da piccolo ho sviluppato una grande passione per i videogiochi Simulativi dal buon vecchio e caro ETS a Flight Simulator. 
 Nel mio canale sarà possibile trovare una leggera varietà di videogiochi: Simulativi & FPS.
 
-# robby__25
-Ciao a tutti, mi chiamo Roberto Baldini ma qui su twitch mi conoscete come robby__25, vivo in provincia di Modena, sono un ragazzo di 20 anni, sono un grande appassionato di motori, auto e tecnologia, adoro giocare ad Euro Truck Simulator 2 ed American Truck Simulator, la mia passione è quella di distruggere le sbarre dei caselli e tirare giù i segnali stradali.
-
 # Canale Ufficiale ITC
 Siamo un gruppo di amici al quale piace ridere, scherzare e giocare insieme in maniera tranquilla ad ETS2 e ATS!
 Se sei interessato ad entrare a far parte della nostra azienda puoi venirci a trovare sul nostro server Discord!

@@ -1,7 +1,7 @@
 ---
 title: FOTO GALLERY ITC
 tags: [ITC, ITA, ETS2, ATS, LIVE, CONVOGLIO, CONVOY, FOTO, FOTOGRAFIA, CAMION]
-authors: [bitpredator, ziospada, robby__25]
+authors: [bitpredator, ziospada]
 ---
 <!-- truncate -->
 
