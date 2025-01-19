@@ -15,32 +15,20 @@ authors: [bitpredator, ziospada]
 
 # I Nostri Viaggi SU ETS2
 ![IMG5](./20240704220902_1.jpg)
-![IMG6](./20240723220717_1.jpg)
-![IMG7](./20240723234439_1.jpg)
-![IMG8](./20240725231852_1.jpg)
-![IMG9](./20240727221118_1.jpg)
-![IMG10](./20240730220945_1.jpg)
-![IMG11](./20240730223642_1.jpg)
-![IMG12](./20240730225046_1.jpg)
-![IMG13](./20230211221827_1.jpg)
 ![IMG14](./ets2_20240802_222653_00.png)
 ![IMG15](./ets2_20240802_222643_00.png)
 ![IMG16](./ets2_20240802_222358_00.png)
 ![IMG17](./ets2_20240802_222343_00.png)
-![IMG18](./20240802222649_1.jpg)
 ![IMG19](./ets2_20240802_225232_00.png)
 
 # I Nostri Viaggi SU ATS
 ![IMG20](./ats_20240804_105237_00.png)
 
 # Convoglio 22 Agosto 2024
-![IMG21](./20240822212601_1.jpg)
 ![IMG22](./20240822220342_1.jpg)
 ![IMG23](./20240822221309_1.jpg)
-![IMG24](./20240822224415_1.jpg)
 
 # Foto del viaggio del 26 Agosto 2024
-![IMG25](./20240826205608_1.jpg)
 ![IMG26](./20240827223846_1.jpg)
 
 # Foto del viaggio di Robby, Andrea e Zio
@@ -48,9 +36,7 @@ authors: [bitpredator, ziospada]
 ![IMG28](./ets2_20240909_225533_00.png)
 
 # Viaggio della speranza di Robby, 4500 km! Da Faro a San Pietroburgo
-![IMG29](./20240920201031_1.jpg)
 ![IMG30](./20240920201036_1.jpg)
-![IMG31](./20240920205541_1.jpg)
 ![IMG32](./20240921204414_1.jpg)
 ![IMG33](./20240920211402_1.jpg)
 ![IMG34](./20240921212702_1.jpg)
@@ -59,9 +45,7 @@ authors: [bitpredator, ziospada]
 ![IMG37](./20240921222134_1.jpg)
 
 # Viaggio di Robby, Zio e Alessandro
-![IMG38](./20241005214026_1.jpg)
 ![IMG39](./20241005220312_1.jpg)
-![IMG40](./20241005221705_1.jpg)
 ![IMG41](./20241005235700_1.jpg)
 
 # Foto Convoglio RODINNA' FIRMA TRASNPORT S.R.O
@@ -73,8 +57,6 @@ authors: [bitpredator, ziospada]
 ![IMG47](./ets2_20241103_004359_01.png)
 
 # Foto convoglio Aziendale ITC 9 Novembre 2024
-![IMG48](./20241109215533_1.jpg)
-![IMG49](./20241109215533_1.jpg)
 ![IMG50](./20241109222429_1.jpg)
 ![IMG51](./20241109230801_1.jpg)
 
@@ -102,12 +84,9 @@ authors: [bitpredator, ziospada]
 ![IMG68](./ets2_20241204_230945_00.png)
 
 # L'Esplorazione della Grecia continua...
-![IMG69](./20241207214332_1.jpg)
 ![IMG70](./20241207223209_1.jpg)
 
 # In viaggio sulle strade americane con Zio, Bit, Busco e Andrea
-![IMG71](./20241218221849_1.jpg)
-![IMG72](./20241218222200_1.jpg)
 ![IMG73](./ats_20241218_222148_00.png)
 
 # Foto del nostro convoglio natalizio con la Rodinnà
