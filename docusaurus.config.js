@@ -77,7 +77,7 @@ const config = {
             items: [
               {
                 label: 'TruckersMP VTC',
-                href: 'https://truckersmp.com/vtc/60781',
+                href: 'https://truckersmp.com/vtc/77372',
               },
               {
                 label: 'TrucksBook',
