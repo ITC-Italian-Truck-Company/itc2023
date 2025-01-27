@@ -3,7 +3,7 @@ authors: [bitpredator, ziospada]
 sidebar_position: 1
 ---
 
-# BLOG ITC
+# BLOG LFI
 <!-- truncate -->
 
 # CHI SIAMO ?
