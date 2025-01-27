@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkla_fenice_italiana=self.webpackChunkla_fenice_italiana||[]).push([[9647],{1957:(e,a,s)=>{s.r(a),s.d(a,{default:()=>u});s(6540);var n=s(4164),r=s(7918),c=s(811),i=s(2831),l=s(9686),t=s(4848);function u(e){return(0,t.jsx)(r.e3,{className:(0,n.A)(c.G.wrapper.docsPages),children:(0,t.jsx)(l.A,{children:(0,i.v)(e.route.routes)})})}}}]);

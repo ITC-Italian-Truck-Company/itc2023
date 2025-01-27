@@ -1,62 +1,100 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://italiantruckcompany.github.io/itc2023/blog</id>
-    <title>ITALIAN TRUCK COMPANY 2023 Blog</title>
-    <updated>2025-01-13T19:54:34.000Z</updated>
+    <id>https://lfi.github.io/lfi/blog</id>
+    <title>LA FENICE ITALIANA Blog</title>
+    <updated>2025-01-27T11:15:05.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://italiantruckcompany.github.io/itc2023/blog"/>
-    <subtitle>ITALIAN TRUCK COMPANY 2023 Blog</subtitle>
-    <icon>https://italiantruckcompany.github.io/itc2023/https://cdn.discordapp.com/attachments/1198249432290959461/1202744909967396964/logo_server.png?ex=65ce927c&amp;is=65bc1d7c&amp;hm=e5abd49358a9e0def75447d8d5d3d9a2b9534315d936e5013313c0e1d1d8e52a&amp;/favicon.png&amp;width=800&amp;height=800</icon>
+    <link rel="alternate" href="https://lfi.github.io/lfi/blog"/>
+    <subtitle>LA FENICE ITALIANA Blog</subtitle>
+    <icon>https://lfi.github.io/lfi/https://cdn.discordapp.com/attachments/1205832593744859156/1329533853945303132/fenixgold.png?ex=678ea4e4&amp;is=678d5364&amp;hm=dba6327096236b78d0111fefd992d206e91722dbe14a3151737676128501389a&amp;&amp;width=800&amp;height=800</icon>
     <entry>
-        <title type="html"><![CDATA[BLOG ITC]]></title>
-        <id>https://italiantruckcompany.github.io/itc2023/blog/index</id>
-        <link href="https://italiantruckcompany.github.io/itc2023/blog/index"/>
-        <updated>2025-01-13T19:54:34.000Z</updated>
-        <summary type="html"><![CDATA[La Italian Truck Company 2023 meglio conosciuta come "ITC 2023" è formata da un gruppo di amici appassionati del modo videoludico e simulativo, nello specifico, siamo grandi appassionati dei simulatori di guida (ETS2 & ATS) ma ciò non toglie che siamo aperti anche ad altri giochi e di genere diverso.]]></summary>
+        <title type="html"><![CDATA[BLOG LFI]]></title>
+        <id>https://lfi.github.io/lfi/blog/index</id>
+        <link href="https://lfi.github.io/lfi/blog/index"/>
+        <updated>2025-01-27T11:15:05.000Z</updated>
+        <summary type="html"><![CDATA[La fenice Italiana (ex ITC), meglio conosciuta come "LFI" è formata da un gruppo di amici appassionati del modo videoludico e simulativo, nello specifico, siamo grandi appassionati dei simulatori di guida (ETS2 & ATS) ma ciò non toglie che siamo aperti anche ad altri giochi e di genere diverso.]]></summary>
         <content type="html"><![CDATA[<h1>CHI SIAMO ?</h1>
-<p>La Italian Truck Company 2023 meglio conosciuta come "ITC 2023" è formata da un gruppo di amici appassionati del modo videoludico e simulativo, nello specifico, siamo grandi appassionati dei simulatori di guida (ETS2 &amp; ATS) ma ciò non toglie che siamo aperti anche ad altri giochi e di genere diverso.</p>
+<p>La fenice Italiana (ex ITC), meglio conosciuta come "LFI" è formata da un gruppo di amici appassionati del modo videoludico e simulativo, nello specifico, siamo grandi appassionati dei simulatori di guida (ETS2 &amp; ATS) ma ciò non toglie che siamo aperti anche ad altri giochi e di genere diverso.</p>
 <h1>QUAL'E' IL NOSTRO SCOPO ?</h1>
 <p>Il nostro scopo principale è quello di creare una community a cui piace ridere, scherzare e giocare insieme.</p>
 <h1>REGOLAMENTO</h1>
-<p>Il nostro gruppo ITC 2023 (ITALIAN TRUCK COMPANY 2023) è finalizzato al divertimento ed essendo
-soprattutto un gioco, non è e non deve diventare un lavoro.
-L’obbiettivo è quello di avanzare nella classifica "reale dei KM" (inferiore ai 100 km/h)
-Chiarito questo si pongono delle regole al fine di mantenere nel gruppo un clima sereno e divertente:</p>
+<p>Accettando il regolamento dichiari di: essere maggiorenne, averne preso piena visione e consapevolezza. (il regolamento può essere soggetto a variazioni )
+Questo gruppo rispetta tutti i T.O.S sotto elencati:</p>
+<ul>
+<li>Discord, TruckersMP, Twitch, SCS, Servizi Google &amp; Meta</li>
+</ul>
 <ol>
 <li>
-<p>Alla base di tutto mettiamo il massimo rispetto fra le persone, quindi niente offese,
-tantomeno dirette, verso chiunque; recriminazioni o critiche devono essere sempre
-ponderate.</p>
+<p>L'italiano è la lingua principale della VTC.</p>
 </li>
 <li>
-<p>L’uso del DISCORD non è strettamente obbligatorio; è però vivamente consigliato in quanto
-permette di conoscerci, stare insieme e magari divertirci. In ogni chat con molti giocatori
-presenti si dovrà prestare attenzione a non sovrapporre i discorsi l’uno con l’altro:
-attendere invece, come suggerisce la buona educazione, che l’interlocutore precedente
-abbia terminato di parlare.</p>
+<p>Poiché ci rappresenti come azienda,
+ti preghiamo di mantenere un'immagine professionale ed evitare comportamenti immaturi.</p>
 </li>
 <li>
-<p>L’uso di termini scurrili (parolacce, imprecazioni varie) non è gradito;
-così pure parlare di altri sport (calcio, F1, moto GP, ecc.); le bestemmie sono tassativamente proibite.</p>
+<p>Quando ti connetti su TruckersMP, devi seguire tutte le regole ufficiali di TMP,
+nel caso vengano utilizzati altri server di gioco dovrai comunque rispettare le regole di esso.</p>
 </li>
 <li>
-<p>In caso di discussioni fra due o più giocatori riguardanti il gioco, sarà compito dei
-coordinatori cercare di appianare in modo semplice, ed in separata sede, la controversia:
-Nell’ipotesi che ciò non sia sufficiente, il coordinatore esporrà il problema agli
-amministratori che prenderanno gli opportuni provvedimenti del caso.</p>
+<p>La livrea ufficiale è obbligatoria solo durante i nostri convogli ufficiali, interni o pubblici.</p>
 </li>
 <li>
-<p>Il reclutamento di nuovi giocatori è, ovviamente, bene accetto da tutti. Nonostante ciò, ci si
-renderà conto che è un compito particolarmente difficile (una persona sbagliata al posto
-sbagliato può rovinare irreparabilmente qualsiasi gruppo anche se bene affiatato): sarà
-opportuno quindi, parlarne con gli amministratori, specialmente se questo nuovo giocatore
-non è conosciuto, e decidere, magari dopo un periodo di prova, se va bene oppure no:
-considerare che un licenziamento non è piacevole per nessuno.</p>
+<p>Se sei bannato da TMP o altri server, è severamente vietato discutere, condividere prove sul nostro server.</p>
 </li>
 <li>
-<p>In ogni cosa, ad ogni modo, si dovrà usare il buon senso costruttivo e non distruttivo,
-considerando che si ha a che fare con persone di cui conosciamo, nella maggior parte dei
-casi, solo la voce.</p>
+<p>La divulgazione di informazioni condivise esclusivamente tra i membri della VTC costituisce motivo di ban e di   inserimento nella blacklist.</p>
+</li>
+<li>
+<p>Se desideri lasciare la VTC, ti preghiamo di essere premuroso e di avvisare lo Staff.</p>
+</li>
+<li>
+<p>Non puoi essere membro di nessun altra VTC, mentre sei nella nostra Azienda,
+altrimenti verrai allontanato e inserito nella blacklist.</p>
+</li>
+<li>
+<p>Per mantenere il tuo stato di autista devi completare un convoglio al mese, e registrare un minimo di 1000 KM reali.
+Il mancato rispetto di questa norma comporterà l'immediata espulsione dal sistema di trucking.
+ATTENZIONE: Ci riserviamo anche il diritto di valutare la mancata partecipazione di eventuali membri se giustificati e motivati a un membro dello staff.</p>
+</li>
+<li>
+<p>Mantenere una distanza di sicurezza di almeno 50 metri,
+per evitare qualsiasi contatto con altri giocatori e rovinare l'esperienza di gioco.</p>
+</li>
+<li>
+<p>Iscriviti a discord per ricevere tutte le informazioni e rimanere aggiornato e fare nuove amicizie è richiesto l'utilizzo di (microfono e cuffie).</p>
+</li>
+<li>
+<p>Non pubblicizzare altre community o VTC senza previa autorizzazione.</p>
+</li>
+<li>
+<p>Non è consentito parlare di religione, politica ed altri argomenti sensibili durante le live stream.
+Inoltre è severamente vietato bestemmiare in qualsiasi occasione.</p>
+</li>
+<li>
+<p>Utilizzare in tutti i canali e vocali un tono educato.</p>
+</li>
+<li>
+<p>Il reclutamento di nuovi giocatori è, ovviamente, bene accetto da tutti,
+dopo un periodo di 7 giorni verrà valutata l'assunzione definitiva da parte di un membro dello staff con l'assegnazione dei ruoli in azienda,
+in questo arco di tempo verrai comunque accettato su tutti i sistemi di trucking in modo che tu possa viaggiare e dimostrare
+la tua buona fede per entrare a far parte del nostro gruppo.</p>
+</li>
+<li>
+<p>Quando si è collegati ai canali live,
+bisogna essere auto-consapevoli che la propria voce viene catturata e riprodotta sul web,
+se desideri che la tua voce non venga riprodotta dovrà essere tua premura mutare il tuo microfono.</p>
+</li>
+<li>
+<p>Ogni decisione presa dallo staff in maniera univoca è indiscutibile e irreversibile.</p>
+</li>
+<li>
+<p>Ogni provvedimento dovrà essere comunicato al diretto interessato e non a terzi.</p>
+</li>
+<li>
+<p>Lo staff è disponibile a valutare tutte le proposte dei membri in maniera razionale,
+soltanto dopo che tutte le proposte siano state scritte e motivate e presentate allo staff in sede di riunione.
+ATTENZIONE: Eventuali proposte non dovranno andare in contrasto con il regolamento vigente.
+Sarà compito dello staff valutare eventuali modifiche del regolamento.</p>
 </li>
 </ol>]]></content>
         <author>
@@ -70,21 +108,21 @@ casi, solo la voce.</p>
     </entry>
     <entry>
         <title type="html"><![CDATA[CONVOGLI/CONVOGLI]]></title>
-        <id>https://italiantruckcompany.github.io/itc2023/blog/CONVOGLI/CONVOGLI</id>
-        <link href="https://italiantruckcompany.github.io/itc2023/blog/CONVOGLI/CONVOGLI"/>
-        <updated>2025-01-13T19:54:34.000Z</updated>
+        <id>https://lfi.github.io/lfi/blog/CONVOGLI/CONVOGLI</id>
+        <link href="https://lfi.github.io/lfi/blog/CONVOGLI/CONVOGLI"/>
+        <updated>2025-01-27T11:15:05.000Z</updated>
         <summary type="html"><![CDATA[Ciao, speriamo che questo viaggio organizzato dalla Italian Truck Company sia l'inizio di un buon Natale, dopo gli eventi passati abbiamo deciso di creare un nuovo evento natalizio e come sempre allargarlo a tutte le aziende virtuali (VTC).]]></summary>
         <content type="html"><![CDATA[<p>Ciao, speriamo che questo viaggio organizzato dalla Italian Truck Company sia l'inizio di un buon Natale, dopo gli eventi passati abbiamo deciso di creare un nuovo evento natalizio e come sempre allargarlo a tutte le aziende virtuali (VTC).</p>
 <p>Come punto di partenza abbiamo scelto la sede Scania, la quale si trova presso la Città di: Södertälje.
 "Ricercare l'azienda con il nome di: Scania Truck Factory"
 (Il punto di partenza si trova nel DLC Scandinavia)
-<img decoding="async" loading="lazy" alt="IMG1" src="https://italiantruckcompany.github.io/itc2023/assets/images/partenzanatale2024-e4496bf454de15ca840aca165408ec72.png" width="1132" height="841" class="img_ev3q"></p>
+<img decoding="async" loading="lazy" alt="IMG1" src="https://lfi.github.io/lfi/assets/images/partenzanatale2024-e4496bf454de15ca840aca165408ec72.png" width="1132" height="841" class="img_ev3q"></p>
 <p>La consegna dovrà essere effettuata presso la LKW azienda situata a Venezia
 (Il punto di consegna non richiede nessun DLC)
-<img decoding="async" loading="lazy" alt="IMG2" src="https://italiantruckcompany.github.io/itc2023/assets/images/destinazionenatale2024-9d79203755ef282169003c8df3791497.png" width="1020" height="818" class="img_ev3q"></p>
+<img decoding="async" loading="lazy" alt="IMG2" src="https://lfi.github.io/lfi/assets/images/destinazionenatale2024-9d79203755ef282169003c8df3791497.png" width="1020" height="818" class="img_ev3q"></p>
 <p>Per il seguente viaggio abbiamo deciso di effettuare 2 soste da 5 minuti in due aree di servizio di cui una nei pressi di un'officina per effettuare eventuali riparazioni. Nel caso effettuaste soste non programmate vi preghiamo di accodarvi al convoglio.
-<img decoding="async" loading="lazy" alt="IMG3" src="https://italiantruckcompany.github.io/itc2023/assets/images/pause1-fee20ced7632a2a7c5540fa7b1a8defc.png" width="1920" height="1080" class="img_ev3q">
-<img decoding="async" loading="lazy" alt="IMG4" src="https://italiantruckcompany.github.io/itc2023/assets/images/pause2-bd7ea080bbd618123e9ed0160788fe99.png" width="1920" height="1080" class="img_ev3q"></p>
+<img decoding="async" loading="lazy" alt="IMG3" src="https://lfi.github.io/lfi/assets/images/pause1-fee20ced7632a2a7c5540fa7b1a8defc.png" width="1920" height="1080" class="img_ev3q">
+<img decoding="async" loading="lazy" alt="IMG4" src="https://lfi.github.io/lfi/assets/images/pause2-bd7ea080bbd618123e9ed0160788fe99.png" width="1920" height="1080" class="img_ev3q"></p>
 <ul>
 <li>Giorno 22/12/2024</li>
 <li>Orario di incontro: 20:30 UTC</li>
@@ -120,156 +158,36 @@ casi, solo la voce.</p>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[STREAMER UFFICIALI ITC]]></title>
-        <id>https://italiantruckcompany.github.io/itc2023/blog/STREAMER/Streamer</id>
-        <link href="https://italiantruckcompany.github.io/itc2023/blog/STREAMER/Streamer"/>
-        <updated>2025-01-13T19:54:34.000Z</updated>
-        <summary type="html"><![CDATA[Ciao a tutti, sono Bitpredator uno Streamer per pura passione questo è solo un hobby non è il mio lavoro.]]></summary>
-        <content type="html"><![CDATA[<h1>Bitpredator</h1>
-<p>Ciao a tutti, sono Bitpredator uno Streamer per pura passione questo è solo un hobby non è il mio lavoro.
-Ho effettuato la mia prima live nel lontano 2019 su "EURO TRUCK SIMULATOR 2", con la mia prima azienda virtuale da me fondata ex: ("ARROWS PRIME ITALIA").
-Nella vita mi occupo di programmazione software almeno cosi narrano i miei superiori.
-Fin da piccolo ho sviluppato una grande passione per i videogiochi Simulativi dal buon vecchio e caro ETS a Flight Simulator.
-Nel mio canale sarà possibile trovare una leggera varietà di videogiochi: Simulativi &amp; FPS.</p>
-<h1>robby__25</h1>
-<p>Ciao a tutti, mi chiamo Roberto Baldini ma qui su twitch mi conoscete come robby__25, vivo in provincia di Modena, sono un ragazzo di 20 anni, sono un grande appassionato di motori, auto e tecnologia, adoro giocare ad Euro Truck Simulator 2 ed American Truck Simulator, la mia passione è quella di distruggere le sbarre dei caselli e tirare giù i segnali stradali.</p>
-<h1>Canale Ufficiale ITC</h1>
-<p>Siamo un gruppo di amici al quale piace ridere, scherzare e giocare insieme in maniera tranquilla ad ETS2 e ATS!
-Se sei interessato ad entrare a far parte della nostra azienda puoi venirci a trovare sul nostro server Discord!
-Buon Divertimento!!</p>
-<h1>Spada_fighter</h1>
-<p>Salve popolo autostradale, qui è Lorenzo Spada che vi parla, in arte spada_fighter! In live mi piace portare principalmente Euro Truck Simulator 2, è a volte anche Call Of Duty.
-Iscrivetevi al mio canale Twitch, attivando le notifiche per rimanere aggiornati sulle mie live! Ne vedrete delle belle! E’ ora vado a mangiarmi un dolce!</p>
-<h1>Spumeggiante75</h1>
-<p>Salve a tutti sono Spumeggiante75, sono un'appassionato del mondo videoludico, spesso mi vedrete giocare a vari titoli simulativi come
-ETS2 &amp; ATS. Potete trovarmi in live su twitch oppure guardare i miei video su Youtube</p>
-<p>I Miei Social</p>
-<ul>
-<li>Link Youtube: <a href="https://www.youtube.com/@calogerosiragusa8909" target="_blank" rel="noopener noreferrer">https://www.youtube.com/@calogerosiragusa8909</a></li>
-<li>Link twitch: <a href="https://www.twitch.tv/spumeggiante75" target="_blank" rel="noopener noreferrer">https://www.twitch.tv/spumeggiante75</a></li>
-</ul>]]></content>
-        <author>
-            <name>Bitpredator</name>
-            <uri>https://github.com/bitpredator</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FOTO GALLERY ITC]]></title>
-        <id>https://italiantruckcompany.github.io/itc2023/blog/GALLERIA ITC</id>
-        <link href="https://italiantruckcompany.github.io/itc2023/blog/GALLERIA ITC"/>
-        <updated>2025-01-13T19:54:34.000Z</updated>
+        <title type="html"><![CDATA[FOTO GALLERY LFI]]></title>
+        <id>https://lfi.github.io/lfi/blog/GALLERIA LFI</id>
+        <link href="https://lfi.github.io/lfi/blog/GALLERIA LFI"/>
+        <updated>2025-01-27T11:15:05.000Z</updated>
         <summary type="html"><![CDATA[IMG1]]></summary>
-        <content type="html"><![CDATA[<p><img decoding="async" loading="lazy" alt="IMG1" src="https://italiantruckcompany.github.io/itc2023/assets/images/20231221230343_1-1bff2511e7dffb8d11cdbeaf852e616b.jpg" width="1920" height="1080" class="img_ev3q">
-<img decoding="async" loading="lazy" alt="IMG2" src="https://italiantruckcompany.github.io/itc2023/assets/images/20231221230351_1-0ad4bc2b1421897099066bff5b8959bd.jpg" width="1920" height="1080" class="img_ev3q"></p>
-<h1>1° Anniversario Italian Truck Company 2023</h1>
-<p><img decoding="async" loading="lazy" alt="IMG3" src="https://italiantruckcompany.github.io/itc2023/assets/images/ets2_20240203_223717_000-c9a829c850d8cb91ece4df3f69f50b34.png" width="1920" height="1080" class="img_ev3q">
-<img decoding="async" loading="lazy" alt="IMG4" src="https://italiantruckcompany.github.io/itc2023/assets/images/ets2_20240203_223717_00-394ddff0610c0d999296e8378a622cba.jpg" width="1920" height="1080" class="img_ev3q"></p>
-<h1>I Nostri Viaggi SU ETS2</h1>
-<p><img decoding="async" loading="lazy" alt="IMG5" src="https://italiantruckcompany.github.io/itc2023/assets/images/20240704220902_1-7eab40a4a0fd3d55ef76499cd48e419e.jpg" width="1920" height="1080" class="img_ev3q">
-<img decoding="async" loading="lazy" alt="IMG6" src="https://italiantruckcompany.github.io/itc2023/assets/images/20240723220717_1-5d506045257251137e694a3c8444e5d8.jpg" width="1920" height="1080" class="img_ev3q">
-<img decoding="async" loading="lazy" alt="IMG7" src="https://italiantruckcompany.github.io/itc2023/assets/images/20240723234439_1-be7622f53dcf1aedb4725fc66e19d5e5.jpg" width="1920" height="1080" class="img_ev3q">
-<img decoding="async" loading="lazy" alt="IMG8" src="https://italiantruckcompany.github.io/itc2023/assets/images/20240725231852_1-d0520e4bcc05947c86b419e0d5b080bc.jpg" width="1920" height="1080" class="img_ev3q">
-<img decoding="async" loading="lazy" alt="IMG9" src="https://italiantruckcompany.github.io/itc2023/assets/images/20240727221118_1-5f7bb5dae3516d947394ec37ae3422c3.jpg" width="1920" height="1080" class="img_ev3q">
-<img decoding="async" loading="lazy" alt="IMG10" src="https://italiantruckcompany.github.io/itc2023/assets/images/20240730220945_1-00d1f18a827e08986ca8affb44df3564.jpg" width="1920" height="1080" class="img_ev3q">
-<img decoding="async" loading="lazy" alt="IMG11" src="https://italiantruckcompany.github.io/itc2023/assets/images/20240730223642_1-7d49d31506620a39fdc3ba078673bc3d.jpg" width="1920" height="1080" class="img_ev3q">
-<img decoding="async" loading="lazy" alt="IMG12" src="https://italiantruckcompany.github.io/itc2023/assets/images/20240730225046_1-e14c314ef1a1c63442b110fc89730b62.jpg" width="1920" height="1080" class="img_ev3q">
-<img decoding="async" loading="lazy" alt="IMG13" src="https://italiantruckcompany.github.io/itc2023/assets/images/20230211221827_1-23f6b69d61639beeec206bfe26605905.jpg" width="1920" height="1080" class="img_ev3q">
-<img decoding="async" loading="lazy" alt="IMG14" src="https://italiantruckcompany.github.io/itc2023/assets/images/ets2_20240802_222653_00-9fc357b4269cf530e126319fe0f81e3b.png" width="3440" height="1440" class="img_ev3q">
-<img decoding="async" loading="lazy" alt="IMG15" src="https://italiantruckcompany.github.io/itc2023/assets/images/ets2_20240802_222643_00-510302c62097a12171664dd5e5996739.png" width="3440" height="1440" class="img_ev3q">
-<img decoding="async" loading="lazy" alt="IMG16" src="https://italiantruckcompany.github.io/itc2023/assets/images/ets2_20240802_222358_00-057b522734edc89a8d4186f6ff60cb74.png" width="3440" height="1440" class="img_ev3q">
-<img decoding="async" loading="lazy" alt="IMG17" src="https://italiantruckcompany.github.io/itc2023/assets/images/ets2_20240802_222343_00-442abcbd9f630f0559657f1a2342d41f.png" width="3440" height="1440" class="img_ev3q">
-<img decoding="async" loading="lazy" alt="IMG18" src="https://italiantruckcompany.github.io/itc2023/assets/images/20240802222649_1-44d36c7665c69827ccaa3cf83207a2c2.jpg" width="1920" height="1080" class="img_ev3q">
-<img decoding="async" loading="lazy" alt="IMG19" src="https://italiantruckcompany.github.io/itc2023/assets/images/ets2_20240802_225232_00-2a07d24029ab5c97368964ca3d66eaa7.png" width="1366" height="768" class="img_ev3q"></p>
-<h1>I Nostri Viaggi SU ATS</h1>
-<p><img decoding="async" loading="lazy" alt="IMG20" src="https://italiantruckcompany.github.io/itc2023/assets/images/ats_20240804_105237_00-6404367f180aba894b489a429b1b55de.png" width="1920" height="1080" class="img_ev3q"></p>
-<h1>Convoglio 22 Agosto 2024</h1>
-<p><img decoding="async" loading="lazy" alt="IMG21" src="https://italiantruckcompany.github.io/itc2023/assets/images/20240822212601_1-c6ddc8492f06f2753a44ebe9e647f853.jpg" width="1920" height="1080" class="img_ev3q">
-<img decoding="async" loading="lazy" alt="IMG22" src="https://italiantruckcompany.github.io/itc2023/assets/images/20240822220342_1-ef517da8e9ce6058320f1c6b4fa417dc.jpg" width="1920" height="1080" class="img_ev3q">
-<img decoding="async" loading="lazy" alt="IMG23" src="https://italiantruckcompany.github.io/itc2023/assets/images/20240822221309_1-a69ed105052a7b5f3c0d1a64e4e764b9.jpg" width="1920" height="1080" class="img_ev3q">
-<img decoding="async" loading="lazy" alt="IMG24" src="https://italiantruckcompany.github.io/itc2023/assets/images/20240822224415_1-efafc975de0ef9f6a86d03ba9e162f5b.jpg" width="1920" height="1080" class="img_ev3q"></p>
-<h1>Foto del viaggio del 26 Agosto 2024</h1>
-<p><img decoding="async" loading="lazy" alt="IMG25" src="https://italiantruckcompany.github.io/itc2023/assets/images/20240826205608_1-e47f787ea9c9efd947633e806e2823f7.jpg" width="1920" height="1080" class="img_ev3q">
-<img decoding="async" loading="lazy" alt="IMG26" src="https://italiantruckcompany.github.io/itc2023/assets/images/20240827223846_1-7410d2f17da0afda887cd22187e7fa0e.jpg" width="1920" height="1080" class="img_ev3q"></p>
-<h1>Foto del viaggio di Robby, Andrea e Zio</h1>
-<p><img decoding="async" loading="lazy" alt="IMG27" src="https://italiantruckcompany.github.io/itc2023/assets/images/ets2_20240909_215920_00-c236789ece737400e58748a26ff90204.png" width="1920" height="1080" class="img_ev3q">
-<img decoding="async" loading="lazy" alt="IMG28" src="https://italiantruckcompany.github.io/itc2023/assets/images/ets2_20240909_225533_00-8c1279483e4f330c66358b6ea3087e4c.png" width="1920" height="1080" class="img_ev3q"></p>
-<h1>Viaggio della speranza di Robby, 4500 km! Da Faro a San Pietroburgo</h1>
-<p><img decoding="async" loading="lazy" alt="IMG29" src="https://italiantruckcompany.github.io/itc2023/assets/images/20240920201031_1-f574fdb70f0d6e6fb49f7b5259e453ae.jpg" width="1920" height="1080" class="img_ev3q">
-<img decoding="async" loading="lazy" alt="IMG30" src="https://italiantruckcompany.github.io/itc2023/assets/images/20240920201036_1-3517d744b61ba0bc46c511ba7e42cb66.jpg" width="1920" height="1080" class="img_ev3q">
-<img decoding="async" loading="lazy" alt="IMG31" src="https://italiantruckcompany.github.io/itc2023/assets/images/20240920205541_1-73b98b923f001fe3ee283c30b38a5e6f.jpg" width="1920" height="1080" class="img_ev3q">
-<img decoding="async" loading="lazy" alt="IMG32" src="https://italiantruckcompany.github.io/itc2023/assets/images/20240921204414_1-8a1b3e77e9448f0d51c079c949a123bd.jpg" width="1920" height="1080" class="img_ev3q">
-<img decoding="async" loading="lazy" alt="IMG33" src="https://italiantruckcompany.github.io/itc2023/assets/images/20240920211402_1-a8ef115ac25a3db78fd0762199df170b.jpg" width="1920" height="1080" class="img_ev3q">
-<img decoding="async" loading="lazy" alt="IMG34" src="https://italiantruckcompany.github.io/itc2023/assets/images/20240921212702_1-4e5a2b28aa199d065e964707f51eb091.jpg" width="1920" height="1080" class="img_ev3q">
-<img decoding="async" loading="lazy" alt="IMG35" src="https://italiantruckcompany.github.io/itc2023/assets/images/20240921214820_1-c3cd52b7a0477b4ab1f3a255ccd524e8.jpg" width="1920" height="1080" class="img_ev3q">
-<img decoding="async" loading="lazy" alt="IMG36" src="https://italiantruckcompany.github.io/itc2023/assets/images/20240921221652_1-cbf3da8dd11c19cc2649d3df1fbbbdb9.jpg" width="1920" height="1080" class="img_ev3q">
-<img decoding="async" loading="lazy" alt="IMG37" src="https://italiantruckcompany.github.io/itc2023/assets/images/20240921222134_1-1897646a5cb69282cb3e0980a9cf5d33.jpg" width="1920" height="1080" class="img_ev3q"></p>
-<h1>Viaggio di Robby, Zio e Alessandro</h1>
-<p><img decoding="async" loading="lazy" alt="IMG38" src="https://italiantruckcompany.github.io/itc2023/assets/images/20241005214026_1-fd9ed0aff75202b481873f02cd8007bc.jpg" width="1920" height="1080" class="img_ev3q">
-<img decoding="async" loading="lazy" alt="IMG39" src="https://italiantruckcompany.github.io/itc2023/assets/images/20241005220312_1-083952f3ede03f0f74939f51ca3bc78f.jpg" width="1920" height="1080" class="img_ev3q">
-<img decoding="async" loading="lazy" alt="IMG40" src="https://italiantruckcompany.github.io/itc2023/assets/images/20241005221705_1-ffa5b3f4ff0d304083e9ecc5f01e62f3.jpg" width="1920" height="1080" class="img_ev3q">
-<img decoding="async" loading="lazy" alt="IMG41" src="https://italiantruckcompany.github.io/itc2023/assets/images/20241005235700_1-3d2f4d760ba6afa255750cb0f1d733b1.jpg" width="1920" height="1080" class="img_ev3q"></p>
-<h1>Foto Convoglio RODINNA' FIRMA TRASNPORT S.R.O</h1>
-<p><img decoding="async" loading="lazy" alt="IMG42" src="https://italiantruckcompany.github.io/itc2023/assets/images/20241102212545_1-6b8f7128130d1c5baa0fb8bde7eceb5b.jpg" width="1920" height="1080" class="img_ev3q">
-<img decoding="async" loading="lazy" alt="IMG43" src="https://italiantruckcompany.github.io/itc2023/assets/images/20241102221417_1-79f2a27293dc5a6acd6cfd38f92594ab.jpg" width="1920" height="1080" class="img_ev3q">
-<img decoding="async" loading="lazy" alt="IMG44" src="https://italiantruckcompany.github.io/itc2023/assets/images/ets2_20241103_004243_00-1dc9749cfd5d824c7e9d1303c54c4fc2.png" width="1920" height="1080" class="img_ev3q">
-<img decoding="async" loading="lazy" alt="IMG45" src="https://italiantruckcompany.github.io/itc2023/assets/images/ets2_20241103_004400_00-386954c1c908e4f00547f24fc9f811b5.png" width="1920" height="1080" class="img_ev3q">
-<img decoding="async" loading="lazy" alt="IMG46" src="https://italiantruckcompany.github.io/itc2023/assets/images/ets2_20241103_004359_00-b6bc3d6bb888ef4379c9fd1c547558ea.png" width="1920" height="1080" class="img_ev3q">
-<img decoding="async" loading="lazy" alt="IMG47" src="https://italiantruckcompany.github.io/itc2023/assets/images/ets2_20241103_004359_01-ad6dac05069506f3f4abffca0229ff6e.png" width="1920" height="1080" class="img_ev3q"></p>
-<h1>Foto convoglio Aziendale ITC 9 Novembre 2024</h1>
-<p><img decoding="async" loading="lazy" alt="IMG48" src="https://italiantruckcompany.github.io/itc2023/assets/images/20241109215533_1-2f8d3e72fba1e0be01a80fe9fb41de3f.jpg" width="1920" height="1080" class="img_ev3q">
-<img decoding="async" loading="lazy" alt="IMG49" src="https://italiantruckcompany.github.io/itc2023/assets/images/20241109215533_1-2f8d3e72fba1e0be01a80fe9fb41de3f.jpg" width="1920" height="1080" class="img_ev3q">
-<img decoding="async" loading="lazy" alt="IMG50" src="https://italiantruckcompany.github.io/itc2023/assets/images/20241109222429_1-3fcc5fbf9f4fe2379e659e7e8689220c.jpg" width="1920" height="1080" class="img_ev3q">
-<img decoding="async" loading="lazy" alt="IMG51" src="https://italiantruckcompany.github.io/itc2023/assets/images/20241109230801_1-a23d1e1ae32fa82325bf918917974b6e.jpg" width="1920" height="1080" class="img_ev3q"></p>
-<h1>Live Disponibile anche sul Canale Youtube: <a href="https://youtu.be/T3OVNet0Z38?si=Bu1rGN9lyVXdvHpP" target="_blank" rel="noopener noreferrer">https://youtu.be/T3OVNet0Z38?si=Bu1rGN9lyVXdvHpP</a></h1>
-<p><img decoding="async" loading="lazy" alt="IMG52" src="https://italiantruckcompany.github.io/itc2023/assets/images/20241109230801_1-a23d1e1ae32fa82325bf918917974b6e.jpg" width="1920" height="1080" class="img_ev3q"></p>
-<h1>Foto Convoglio RODINNA' 1 Dicembre 2024</h1>
-<p><img decoding="async" loading="lazy" alt="IMG53" src="https://italiantruckcompany.github.io/itc2023/assets/images/ets2_20241130_204643_00-b4f96c28d0ac2f178c57bd7e35299ec3.png" width="1920" height="1080" class="img_ev3q">
-<img decoding="async" loading="lazy" alt="IMG54" src="https://italiantruckcompany.github.io/itc2023/assets/images/ets2_20241130_204756_00-ae54eaaf4b5c100a9cdb27e709e3d961.png" width="1920" height="1080" class="img_ev3q">
-<img decoding="async" loading="lazy" alt="IMG55" src="https://italiantruckcompany.github.io/itc2023/assets/images/ets2_20241130_211416_00-b3d9f58bdd12112a0588f48aef912323.png" width="1920" height="1080" class="img_ev3q">
-<img decoding="async" loading="lazy" alt="IMG56" src="https://italiantruckcompany.github.io/itc2023/assets/images/ets2_20241130_211829_00-9480a0a51141df819e2ebaa9a67abed6.png" width="1920" height="1080" class="img_ev3q">
-<img decoding="async" loading="lazy" alt="IMG57" src="https://italiantruckcompany.github.io/itc2023/assets/images/ets2_20241130_211829_00-9480a0a51141df819e2ebaa9a67abed6.png" width="1920" height="1080" class="img_ev3q">
-<img decoding="async" loading="lazy" alt="IMG58" src="https://italiantruckcompany.github.io/itc2023/assets/images/ets2_20241130_215631_00-21c08676d4147a12060b8b7769eaf7a9.png" width="1920" height="1080" class="img_ev3q">
-<img decoding="async" loading="lazy" alt="IMG59" src="https://italiantruckcompany.github.io/itc2023/assets/images/ets2_20241130_230932_00-6729bfb0867fa3e8d357bcd7bf1bfa0d.png" width="1920" height="1080" class="img_ev3q">
-<img decoding="async" loading="lazy" alt="IMG60" src="https://italiantruckcompany.github.io/itc2023/assets/images/ets2_20241130_230950_00-f817fd09374f65e89b889f61e8a028e3.png" width="1920" height="1080" class="img_ev3q">
-<img decoding="async" loading="lazy" alt="IMG61" src="https://italiantruckcompany.github.io/itc2023/assets/images/ets2_20241130_231817_00-3679ee6818fecd783cecf9f9376c68e5.png" width="1920" height="1080" class="img_ev3q">
-<img decoding="async" loading="lazy" alt="IMG62" src="https://italiantruckcompany.github.io/itc2023/assets/images/ets2_20241130_231848_00-9a43e9e8bb6400a0b92ac99aba88420e.png" width="1920" height="1080" class="img_ev3q">
-<img decoding="async" loading="lazy" alt="IMG63" src="https://italiantruckcompany.github.io/itc2023/assets/images/image-7bb270427a22f923bb932bab45137a69.png" width="1920" height="1080" class="img_ev3q"></p>
-<h1>Esplorando la Grecia con Andrea, Zio e Bit</h1>
-<p><img decoding="async" loading="lazy" alt="IMG64" src="https://italiantruckcompany.github.io/itc2023/assets/images/20241204221521_1-ff92dd087be2489ba9dc071acf372ee6.jpg" width="1920" height="1080" class="img_ev3q">
-<img decoding="async" loading="lazy" alt="IMG65" src="https://italiantruckcompany.github.io/itc2023/assets/images/20241204231034_1-046c1b43235317e85e2e60111222dcc8.jpg" width="1920" height="1080" class="img_ev3q">
-<img decoding="async" loading="lazy" alt="IMG66" src="https://italiantruckcompany.github.io/itc2023/assets/images/ets2_20241204_230854_00-d9d53da631eb1eae269697c3e754e634.png" width="1920" height="1080" class="img_ev3q">
-<img decoding="async" loading="lazy" alt="IMG67" src="https://italiantruckcompany.github.io/itc2023/assets/images/ets2_20241204_230937_00-bdca8409ab190d2bcedcea1652f01929.png" width="1920" height="1080" class="img_ev3q">
-<img decoding="async" loading="lazy" alt="IMG68" src="https://italiantruckcompany.github.io/itc2023/assets/images/ets2_20241204_230945_00-b7223699aedb6a822af97ae1ec1c7be0.png" width="1920" height="1080" class="img_ev3q"></p>
-<h1>L'Esplorazione della Grecia continua...</h1>
-<p><img decoding="async" loading="lazy" alt="IMG69" src="https://italiantruckcompany.github.io/itc2023/assets/images/20241207214332_1-ade98d309fd1015ea92628973568fcbb.jpg" width="1920" height="1080" class="img_ev3q">
-<img decoding="async" loading="lazy" alt="IMG70" src="https://italiantruckcompany.github.io/itc2023/assets/images/20241207223209_1-39f27d3c8a8ae48421d28fb7111efcf1.jpg" width="1920" height="1080" class="img_ev3q"></p>
-<h1>In viaggio sulle strade americane con Zio, Bit, Busco e Andrea</h1>
-<p><img decoding="async" loading="lazy" alt="IMG71" src="https://italiantruckcompany.github.io/itc2023/assets/images/20241218221849_1-58b861d8c844fda55eb5bce92aa6e7f0.jpg" width="1920" height="1080" class="img_ev3q">
-<img decoding="async" loading="lazy" alt="IMG72" src="https://italiantruckcompany.github.io/itc2023/assets/images/20241218222200_1-e83d00dea5b8ee666dbe7d7035db8944.jpg" width="1920" height="1080" class="img_ev3q">
-<img decoding="async" loading="lazy" alt="IMG73" src="https://italiantruckcompany.github.io/itc2023/assets/images/ats_20241218_222148_00-ba12551e8b9cbb2a1fb1d28f21c8671f.png" width="1920" height="1080" class="img_ev3q"></p>
-<h1>Foto del nostro convoglio natalizio con la Rodinnà</h1>
-<p><img decoding="async" loading="lazy" alt="IMG74" src="https://italiantruckcompany.github.io/itc2023/assets/images/20241221233024_1-82c94f0e79de00515987146de65457f1.jpg" width="1920" height="1080" class="img_ev3q">
-<img decoding="async" loading="lazy" alt="IMG75" src="https://italiantruckcompany.github.io/itc2023/assets/images/20241222222258_1-7a535a3fb30609a23746060c70ab9479.jpg" width="1920" height="1080" class="img_ev3q">
-<img decoding="async" loading="lazy" alt="IMG76" src="https://italiantruckcompany.github.io/itc2023/assets/images/20241222224229_1-13e77fcf81048ead3cb840838bd2b678.jpg" width="1920" height="1080" class="img_ev3q">
-<img decoding="async" loading="lazy" alt="IMG77" src="https://italiantruckcompany.github.io/itc2023/assets/images/20241222231758_1-f2485ac8102ec3b67191d59cd1453dc5.jpg" width="1920" height="1080" class="img_ev3q">
-<img decoding="async" loading="lazy" alt="IMG78" src="https://italiantruckcompany.github.io/itc2023/assets/images/20241223000149_1-24abd63385881660b3515b503e862a6b.jpg" width="1920" height="1080" class="img_ev3q"></p>
-<h1>Live del convoglio disponibile anche sul nostro canale YouTube: <a href="https://youtu.be/ZFgMBEPR_og?si=mjiU58QCd4zBRmmw" target="_blank" rel="noopener noreferrer">https://youtu.be/ZFgMBEPR_og?si=mjiU58QCd4zBRmmw</a></h1>
-<h1>Viaggio del Venerdì sera</h1>
-<p><img decoding="async" loading="lazy" alt="IMG79" src="https://italiantruckcompany.github.io/itc2023/assets/images/20250109215845_1-883975cfdaa58291c71ea89ba792a3e8.jpg" width="1920" height="1080" class="img_ev3q">
-<img decoding="async" loading="lazy" alt="IMG80" src="https://italiantruckcompany.github.io/itc2023/assets/images/20250110220855_1-9337cffeb53c5524f390c33c74def8aa.jpg" width="1920" height="1080" class="img_ev3q"></p>]]></content>
+        <content type="html"><![CDATA[<p><img decoding="async" loading="lazy" alt="IMG1" src="https://lfi.github.io/lfi/assets/images/20231221230343_1-1bff2511e7dffb8d11cdbeaf852e616b.jpg" width="1920" height="1080" class="img_ev3q">
+<img decoding="async" loading="lazy" alt="IMG2" src="https://lfi.github.io/lfi/assets/images/20231221230351_1-0ad4bc2b1421897099066bff5b8959bd.jpg" width="1920" height="1080" class="img_ev3q">
+<img decoding="async" loading="lazy" alt="IMG3" src="https://lfi.github.io/lfi/assets/images/ets2_20240203_223717_000-c9a829c850d8cb91ece4df3f69f50b34.png" width="1920" height="1080" class="img_ev3q">
+<img decoding="async" loading="lazy" alt="IMG4" src="https://lfi.github.io/lfi/assets/images/ets2_20240203_223717_00-394ddff0610c0d999296e8378a622cba.jpg" width="1920" height="1080" class="img_ev3q">
+<img decoding="async" loading="lazy" alt="IMG5" src="https://lfi.github.io/lfi/assets/images/20240704220902_1-7eab40a4a0fd3d55ef76499cd48e419e.jpg" width="1920" height="1080" class="img_ev3q">
+<img decoding="async" loading="lazy" alt="IMG6" src="https://lfi.github.io/lfi/assets/images/20240822220342_1-ef517da8e9ce6058320f1c6b4fa417dc.jpg" width="1920" height="1080" class="img_ev3q">
+<img decoding="async" loading="lazy" alt="IMG7" src="https://lfi.github.io/lfi/assets/images/20240822221309_1-a69ed105052a7b5f3c0d1a64e4e764b9.jpg" width="1920" height="1080" class="img_ev3q">
+<img decoding="async" loading="lazy" alt="IMG8" src="https://lfi.github.io/lfi/assets/images/20240827223846_1-7410d2f17da0afda887cd22187e7fa0e.jpg" width="1920" height="1080" class="img_ev3q">
+<img decoding="async" loading="lazy" alt="IMG9" src="https://lfi.github.io/lfi/assets/images/ets2_20240909_215920_00-c236789ece737400e58748a26ff90204.png" width="1920" height="1080" class="img_ev3q">
+<img decoding="async" loading="lazy" alt="IMG10" src="https://lfi.github.io/lfi/assets/images/ets2_20240909_225533_00-8c1279483e4f330c66358b6ea3087e4c.png" width="1920" height="1080" class="img_ev3q">
+<img decoding="async" loading="lazy" alt="IMG11" src="https://lfi.github.io/lfi/assets/images/20241005220312_1-083952f3ede03f0f74939f51ca3bc78f.jpg" width="1920" height="1080" class="img_ev3q">
+<img decoding="async" loading="lazy" alt="IMG12" src="https://lfi.github.io/lfi/assets/images/20241005235700_1-3d2f4d760ba6afa255750cb0f1d733b1.jpg" width="1920" height="1080" class="img_ev3q">
+<img decoding="async" loading="lazy" alt="IMG14" src="https://lfi.github.io/lfi/assets/images/20241109230801_1-a23d1e1ae32fa82325bf918917974b6e.jpg" width="1920" height="1080" class="img_ev3q">
+<img decoding="async" loading="lazy" alt="IMG15" src="https://lfi.github.io/lfi/assets/images/ets2_20241103_004243_00-1dc9749cfd5d824c7e9d1303c54c4fc2.png" width="1920" height="1080" class="img_ev3q">
+<img decoding="async" loading="lazy" alt="IMG16" src="https://lfi.github.io/lfi/assets/images/ets2_20241103_004400_00-386954c1c908e4f00547f24fc9f811b5.png" width="1920" height="1080" class="img_ev3q">
+<img decoding="async" loading="lazy" alt="IMG17" src="https://lfi.github.io/lfi/assets/images/ets2_20241103_004359_00-b6bc3d6bb888ef4379c9fd1c547558ea.png" width="1920" height="1080" class="img_ev3q">
+<img decoding="async" loading="lazy" alt="IMG18" src="https://lfi.github.io/lfi/assets/images/ets2_20241103_004359_01-ad6dac05069506f3f4abffca0229ff6e.png" width="1920" height="1080" class="img_ev3q">
+<img decoding="async" loading="lazy" alt="IMG19" src="https://lfi.github.io/lfi/assets/images/20241221233024_1-82c94f0e79de00515987146de65457f1.jpg" width="1920" height="1080" class="img_ev3q">
+<img decoding="async" loading="lazy" alt="IMG20" src="https://lfi.github.io/lfi/assets/images/20241223000149_1-24abd63385881660b3515b503e862a6b.jpg" width="1920" height="1080" class="img_ev3q"></p>
+<p><img decoding="async" loading="lazy" alt="IMG21" src="https://lfi.github.io/lfi/assets/images/ats_20240804_105237_00-6404367f180aba894b489a429b1b55de.png" width="1920" height="1080" class="img_ev3q"></p>]]></content>
         <author>
             <name>Bitpredator</name>
             <uri>https://github.com/bitpredator</uri>
         </author>
-        <author>
-            <name>Zio-Spada</name>
-            <uri>https://github.com/Zio-Spada</uri>
-        </author>
-        <author>
-            <name>Robby__25</name>
-            <uri>https://github.com/ROBBY2502</uri>
-        </author>
-        <category label="ITC" term="ITC"/>
+        <category label="LFI" term="LFI"/>
         <category label="ITA" term="ITA"/>
         <category label="ETS2" term="ETS2"/>
         <category label="ATS" term="ATS"/>
@@ -279,5 +197,25 @@ ETS2 &amp; ATS. Potete trovarmi in live su twitch oppure guardare i miei video s
         <category label="FOTO" term="FOTO"/>
         <category label="FOTOGRAFIA" term="FOTOGRAFIA"/>
         <category label="CAMION" term="CAMION"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[STREAMER UFFICIALI LFI]]></title>
+        <id>https://lfi.github.io/lfi/blog/STREAMER/Streamer</id>
+        <link href="https://lfi.github.io/lfi/blog/STREAMER/Streamer"/>
+        <updated>2025-01-27T11:15:05.000Z</updated>
+        <summary type="html"><![CDATA[Ciao a tutti, sono Bitpredator uno Streamer per pura passione questo è solo un hobby non è il mio lavoro.]]></summary>
+        <content type="html"><![CDATA[<h1>Bitpredator</h1>
+<p>Ciao a tutti, sono Bitpredator uno Streamer per pura passione questo è solo un hobby non è il mio lavoro.
+Ho effettuato la mia prima live nel lontano 2019 su "EURO TRUCK SIMULATOR 2", con la mia prima azienda virtuale da me fondata ex: ("ARROWS PRIME ITALIA").
+Nella vita mi occupo di programmazione software almeno cosi narrano i miei superiori.
+Fin da piccolo ho sviluppato una grande passione per i videogiochi Simulativi dal buon vecchio e caro ETS a Flight Simulator.
+Nel mio canale sarà possibile trovare una leggera varietà di videogiochi: Simulativi &amp; FPS.</p>
+<h1>zi0_thunder</h1>
+<p>Salve popolo autostradale, qui è Lorenzo Spada che vi parla, in arte zi0_thunder! In live mi piace portare principalmente Euro Truck Simulator 2, è a volte anche Call Of Duty.
+Iscrivetevi al mio canale Twitch, attivando le notifiche per rimanere aggiornati sulle mie live! Ne vedrete delle belle! E’ ora vado a mangiarmi un dolce!</p>]]></content>
+        <author>
+            <name>Bitpredator</name>
+            <uri>https://github.com/bitpredator</uri>
+        </author>
     </entry>
 </feed>

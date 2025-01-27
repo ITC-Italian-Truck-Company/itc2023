@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkla_fenice_italiana=self.webpackChunkla_fenice_italiana||[]).push([[1903],{1912:a=>{a.exports=JSON.parse('{"blogBasePath":"/lfi/blog","blogTitle":"Blog","authorsListPath":"/lfi/blog/authors"}')}}]);
