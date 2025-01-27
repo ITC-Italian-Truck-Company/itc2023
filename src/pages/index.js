@@ -10,7 +10,7 @@ function HomepageHeader() {
       <div className="container">
         <head><meta name="google-site-verification" content="Kg9ShFJONmQ9gcsz43sOGRWnUkQWwMqd4aVhSLEA1DE" /></head>
         <img1>
-          <img src="https://cdn.discordapp.com/attachments/1205832593744859156/1329533853945303132/fenixgold.png?ex=678ea4e4&is=678d5364&hm=dba6327096236b78d0111fefd992d206e91722dbe14a3151737676128501389a&?width=800&height=800"></img>
+          <img src="img\fenixgold.png"></img>
         </img1>
 
         <div>
